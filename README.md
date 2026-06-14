@@ -8,13 +8,13 @@
 
 ## Research Question
 
-To what extent do Turkey-affiliated tourism publications overlap with digital/smart/AI-driven terminology, and how has this convergence rate changed over time?
+To what extent has Turkey-affiliated tourism research converged with digital and smart technology themes over the period 2002 to 2021, and how has this convergence evolved over time?
 
 ---
 
 ## Data Source
 
-**Microsoft Academic Graph (MAG)** — [Figshare dataset](https://doi.org/10.6084/m9.figshare.c.4986887)
+**Microsoft Academic Graph (MAG)** — [Zenodo dataset](https://zenodo.org/records/6511057)
 
 | File | Size | Description |
 |------|------|-------------|
