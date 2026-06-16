@@ -84,8 +84,7 @@ DIGITAL_TERMS = [
     "makine öğrenimi", "derin öğrenme", "veri odaklı",
     "büyük veri", "nesnelerin interneti", "algoritma",
     "veri madenciliği", "bulut bilişim", "otomasyon",
-    "sanal gerçeklik", "artırılmış gerçeklik", "endüstri 4.0",
-    "metaverse", "sensör",
+    "sanal gerçeklik", "artırılmış gerçeklik", "endüstri 4.0", "sensör",
 ]
 
 # ── Tee: write stdout to both console and log file ────────────────────────────
