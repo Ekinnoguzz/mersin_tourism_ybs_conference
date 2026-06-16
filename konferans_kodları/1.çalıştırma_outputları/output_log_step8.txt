@@ -1,0 +1,5 @@
+============================================================
+STEP 8: Filtered analysis 2002–2021
+  Input : C:\Users\Ekin\Desktop\Mersin Konferansı\konferans_kodları\digital_convergence_data.csv
+  OutDir: C:\Users\Ekin\Desktop\Mersin Konferansı\konferans_kodları\1.çalıştırma_outputları
+============================================================

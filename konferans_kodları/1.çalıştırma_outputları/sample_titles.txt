@@ -1,0 +1,1002 @@
+  Year  Digital  Title
+--------------------------------------------------------------------------------
+  2009       no  sanayi uretiminde tatil etkileri
+  2013       no  yalin lojistik acisindan konaklama isletmelerinin tedarik zinciri yapisi ve karsilastirmali bir maliyet analizi
+  2014       no  can tourism promotions influence a country s negative image an experimental study on israel s image
+  2019       no  the effect of european and global uncertainty on stock returns of travel and leisure companies
+  2011       no  tourism potential of gazipasa antalya turkey
+  2013       no  the importance of marmaris tourism industry on development and factors that influence russian tourists in choosing marmaris
+  2013       no  effects of russia s economic growth on turkey s tourism sector
+  2020       no  is yasam dengesinin yasam doyumuna etkisinde ise gomulmuslugun aracilik rolu konaklama isletmelerinde bir uygulama
+  2012       no  surface circulation in the alboran sea western mediterranean inferred from remotely sensed data
+  2016       no  does tourism cause growth evidence from turkey
+  2016      YES  mobile marketing usage of augmented reality in tourism
+  2007       no  comparison of tourists and employees evaluations regarding services
+  2021       no  tourism induced pollutant emissions in mediterranean countries evidence from panel causality analysis
+  2016       no  surdurebilir gastronomi turizmine bir model sille beldesi orneği
+  2011       no  evaluation of the vocational competence of the cookery students a study on the students of hotels and vocational high schools
+  2020       no  investigation of the motivations and experiences of tourists visiting the gallipoli peninsula as a dark tourism destination
+  2015       no  batum da turizmin gelişimi ve bolge gelişimine katkisi development of tourism in batumi and its impacts on regional development
+  2018       no  we are like a family flexibility and intention to stay in boutique hotels in turkey
+  2016       no  mesleki baglilik ve meslegi birakma niyeti uzerinde etken faktorler olarak birey meslek uyumu ve meslegin sosyal statusu turizm sektorunde gorgul bir arastirma
+  2016       no  religious tourism in turkey
+  2021       no  evaluation of precautionary measures taken for covid 19 in the hospitality industry during pandemic
+  2021       no  antecedents and consequences of work family conflict in the hospitality industry
+  2019       no  role stress and turnover intention in hotels the mediating role of organizational enthusiasm and unstimulating work
+  2016       no  investigating the environmental kuznets curve hypothesis the role of tourism and ecological footprint
+  2000       no  in vitro study of the penetration of streptococcus sanguis and prevotella intermedia strains into human dentinal tubules
+  2009       no  moduler ogretim sisteminin getirdigi uygulamalarin degerlendirilmesi anadolu otelcilik ve turizm meslek liselerinde bir alan arastirmasi
+  2002       no  detecting land use changes at the urban fringe from remotely sensed images in ankara turkey
+  2012       no  the international patient s portfolio and marketing of turkish health tourism
+  2016       no  liderlik uygulamalari orgutsel vatandaslik davranislari iliskisinde orgutsel adalet algisinin duzenleyici etkisi konaklama isletmeleri uzerine bir arastirma
+  2018       no  the impact of cultural dimensions on customer complaint behaviours an exploratory study in antalya manavgat tourism region
+  2016       no  the turkish competition authority unconditionally clears the acquisition of a 5 star hotel chain marriott starwood
+  2016       no  uluslararasi konaklama işletmelerinin misyon ifadesi bileşenlerinin incelenmesi icerik analizi
+  2018       no  creative cities network for marketing touristic products an analysis on literary cities
+  2016       no  accessible tourism the golden key in the future for the specialized travel agencies
+  2018       no  destinasyon tercihinde somut olmayan kulturel miras degerlerinin onemi uluslararasi kultur turistleri uzerine bir uygulama
+  2018       no  calisan performansi ve mali performans pozitif ses cikarma psikolojik iyi olus ve calismaya tutkunluk ile iliskileri ve otel isletmeleri ornegi the relationship between employee performance and financial performance positive voice well being and work engagement at hotels
+  2020       no  turistik seyahatlerde unutulmaz yemek deneyiminin davranissal niyete etkisi gaziantep ornegi
+  2016       no  nature based tourism in turkey the yayla in turkey s eastern black sea region
+  2019       no  the comparison of robust partial least squares regression methods rsimpls prm with robust principal component regression for predicting tourist arrivals to turkey
+  2021       no  turkiye ekonomisinde 1990 2016 doneminde turizm ve cevre iliskisinin ekonometrik analizi
+  2014       no  anatolia turizm arastirmalari dergisi nin bibliyometrik analizi arastirma konulari ve kurumlar arasi is birliginin sosyal ag analizi ile incelenmesi bibliometric analysis of anatolia turizm arastirmalari dergisi an analysis of research subjects and institutional collabration through social network analysis
+  2018       no  hotel guests satisfaction with employees in istanbul and barcelona
+  2019       no  the role of accounting in the improvement of costs in hotel businesses sustainability report
+  2004       no  influences of campus recruiting on applicant attraction to hospitality companies
+  2019       no  evaluation of iran s cultural tourism potential from the european union perspective jolfa region
+  2015       no  leisure time physical activity level in turkish population turkey 2012
+  2005       no  tourism public policy and the strategic management of failure
+  2015      YES  augmented reality advertisements in tourism marketing
+  2021       no  evaluation of innovative management success criteria in hotel establishments case study in giresun turkey
+  2010       no  knowledge management organisational communication and job satisfaction an empirical test of a five star hotel in turkey
+  1951       no  turizm ve tabiati koruma islerimiz
+  2013       no  huzun turizmi katilimcilarinin seyahat motivasyonlarinin belirlenmesi
+  2019       no  destinasyon kisiligi ile memnuniyet ve davranissal niyetler arasindaki iliskilerin incelenmesi gaziantep ornegi
+  2016       no  examining of leisure time participation psychological well being and leisure negotiation of university students serbest zaman katilimi psikolojik iyi olma ve serbest zaman engelleri ile bas etme stratejilerinin universite ogrencileri uzerinde incelenmesi
+  2011       no  evaluation of kocarli adnan menderes urban forest in terms of the ecotourism
+  2002       no  resident attitudes toward tourism impacts the case of kusadasi in turkey
+  2021       no  otel isletmelerinde musteri memnuniyeti ve sadakati uzerine bir calisma
+  2015       no  do guests get their expected dishes or not evaluation of food beverage services in hotel establishments case of antalya misafir umdugunu mu yer buldugunu mu otel isletmelerinde yiyecek icecek hizmetlerinin degerlendirilmesi antalya ornegi
+  2016       no  orgutsel guven ile orgut ikliminin orgutsel ozdeslesme is tatmini ve isten ayrilma niyeti uzerine etkileri otel isletmelerinde bir uygulama
+  2020       no  land use suitability analysis of rural tourism activities yenice turkey
+  2015       no  medikal turizm sektorunde kuresel isbirligi yenilikcilik ve buyume antalya ornegi
+  2015       no  iş stresi kaytarma ilişkisinde liderin rolu turizm sektorunde bir araştirma
+  2016       no  the fourth international conference on climate tourism and recreation
+  2019       no  investigation of leisure perceptions of individuals in outdoor sports
+  2021       no  how to survive a pandemic the corporate resiliency of travel and leisure companies to the covid 19 outbreak
+  2020       no  how to survive a pandemic the corporate resiliency of travel and leisure companies to the covid 19 outbreak
+  2021       no  iliskisel sosyal sermayenin isten ayrilma niyetine etkisi saglik turizmi isletmelerinde bir uygulama
+  2016       no  alternative tourism definition and characteristics
+  2020       no  engelli basketbolcularin sosyal hayatini engelleyen saglik sorunlarinin turizm faaliyetleri acisindan degerlendirilmesi
+  2016       no  konaklama tesisi yoneticilerinin alternatif turizme dair gorusleri dogu antalya side turistik gelisim projesi bolgesi ornegi
+  2007       no  tourist harassment a marketing perspective
+  2019       no  analysis of the customer based efficiency at workplace for tourism industry using house of quality
+  2017       no  the intervening role of competitiveness on the relationship between sustainability and tourism performance a research on european countries
+  2015       no  sport tourism and its history and contribution of olympic games to touristic promotion
+  2015       no  the role of culture in the relationship between leader support and innovative behaviors a research in tourism sector
+  2017       no  rural development oriented ecotourism planning on catchment basin scale the case of pabucdere and kazandere catchment basins
+  2015       no  otel isletmelerinde tedarikci secimi surecinde ahp ve bahp yontemlerinin uygulanmasi
+  2015       no  marketing efforts related to social media channels and mobile application usage in tourism case study in istanbul
+  2016       no  identification of hotel attributes for senior tourists by using vavra s importance grid
+  2015       no  crustal structure of the north anatolian and east anatolian fault systems from magnetotelluric data
+  1972      YES  a dynamic programming integer programming algorithm for allocating touristic investments
+  2007       no  an analysis of managerial competency needs in the tourism sector the case of turkey
+  2020       no  unesco gastronomi kenti afyonkarahisar mutfagi uzerine yapilan calismalarin bibliyometrisi
+  2015       no  examining attitudes towards leisure activities of footballtennis athletes
+  2019       no  otel personeli iş ilanlarinda aranan nitelik ve becerilere yonelik bir araştirma
+  2014       no  etik iklim ise yabancilasma ve orgutsel ozdeslesmenin isten ayrilma niyeti uzerindeki etkisi otel isletmelerinde bir arastirma
+  2004       no  forecasting turkey s tourism revenues by armax model
+  2013       no  determining the tourism potential of the altindere valley national park trabzon turkey with respect to its conservation value
+  2018       no  future s tourism a case analysis with qualitative research in antalya region
+  2018       no  managerial social networks affect on firm performance a research in five star hotels
+  2014       no  cost management practices in the hospitality industry the case of the turkish hotel industry
+  2019       no  psikolojik sozlesmenin orgutsel yaraticiliga etkisi afyonkarahisar daki bes yildizli otel isletmeleri ornegi
+  2011       no  the scale of tourism s economic socio cultural and environmental effects on local people developing scale reliability and validity study
+  2016       no  donusumcu ve etkilesimci liderligin orgutsel sessizlik uzerine etkisi otel isletmelerinde bir arastirma
+  2004       no  dagcilik ve dag turizmindeki ikilem ekonomik yarar ve ekolojik bedel the dilemma of mountaineering and mountain tourism economic benefits and ecological costs
+  2019       no  does tourism investment improve the energy efficiency in transportation and residential sectors evidence from the oecd economies
+  2010       no  otel isletmeleri isgorenlerinin is doyum duzeyleri sayfiye ve şehir otel isletmeleri isgorenleri uzerinde bir arastirma
+  2014       no  examining experiential qualities on the stage a study on leisure experience of salsa dancing
+  2012       no  variety of urban tourism development trajectories antalya amsterdam and liverpool compared
+  2012       no  kucuk konaklama isletmelerinde musteri iliskileri yonetimi alacati ornegi
+  2015       no  turizmi degistiren 100 yenilik
+  2015       no  sağlik turizminde devlet teşviklerinin tms 20 kapsaminda muhasebeleştirilmesi
+  2016       no  residents tourism support behaviour the role of sustainable tourism attitude
+  2005       no  stages in the emergence of a participatory tourism development approach in the developing world
+  2021       no  turizm ve otel isletmeciligi bolumu onlisans ogrencilerinin tatil kavramina iliskin algilarinin metaforlar yardimiyla analizi
+  2018       no  the value and scope of gis in marketing and tourism management
+  2019       no  generational analysis of leisure time physical activity participation of women in turkey
+  2017       no  factors affecting educational motivation in university a study of tourism education in antalya
+  2012       no  gender differences on perceptions of employee quality of working life indicators in five star hotels in turkey
+  2018       no  kesinligin genel merkezi ne dogru deneyimsel bir ust seyahat giorgio manganelli nin hindistani
+  2017       no  iyi guzel ozgun yemeğin peşindeki yolculuk gastronomi
+  2018       no  electrical resistivity structure at the north central turkey inferred from three dimensional magnetotellurics
+  2014       no  calisanlarin orgutsel adalet algilamalarinin tukenmislik duzeyleri uzerindeki etkisi kemer deki bes yildizli otel isletmelerinde bir uygulama
+  2014       no  interaction between finance tourism and advertising evidence from turkey
+  2014       no  interaction between finance tourism and advertising evidence from turkey
+  2018       no  walkability and design of tourist routes in old city centres for senior tourists the case of a historical peninsula in istanbul
+  2019       no  impact of traditional equitation shows to tourism world wide and suggestions for utilising equestrian tourism in turkish tourism sector
+  2021       no  bes yildizli otel isletmelerinde yetenek yonetimi uygulamalarinin is tatmini uzerindeki etkisi belek ornegi
+  2017       no  the environmental impacts of tourism and recreation activities on kackar mountains national park rize turkey
+  2020       no  4 th international tourism congress 16 19 october 2019 eskisehir turkey
+  2020       no  assessment of gamma ray attenuation features for la 3 co doped zinc borotellurite glasses
+  2021       no  country and destination image perception of mass tourists generation comparison
+  2020       no  safranbolu da surdurulebilir turizm gelismesine yonelik yerel halkin tutumlari
+  2016       no  compliance to smoke free legislation among istanbul hospitality premises in 2015
+  2021       no  safeviler doneminde sema semah kronikler seyahatnâmeler ve minyaturlerde
+  2019       no  the global dissemination of scholarly tourism outputs from 1976 to 2016 evidence from australia
+  2020      YES  assessment of blockchain applications in travel and tourism industry
+  2018       no  alternatif turizm ceşitlerinden inanc turizmi ve
+  2019       no  exploring retraction in tourism and hospitality journals
+  2021       no  competitiveness in medical tourism an evaluation on kocaeli medical tourism market
+  2017       no  designing an effective organizational employee motivation system based on abcd model for hotel establishments
+  2018       no  do food and beverage cost control measures increase hotel performance a case study in istanbul turkey
+  2016       no  ekoturizm kapsaminda turistik urun cesitlendirmesi aydin ili sultanhisar ilcesi ornegi
+  2019       no  toplum temelli turizm lavanta kokulu koy ornegi
+  2020       no  inverting magnetotelluric data with distortion correction stability uniqueness and trade off with model structure
+  2020       no  qr code applications in tourism
+  2016       no  sentiment classification on turkish hotel reviews
+  2012       no  inanc turizmi kapsaminda aziz pavlus evinin onemi ve tanitim faaliyetlerine iliskin ziyaretci goruslerinin degerlendirilmesi the importance of st paul s house within the scope of the religious tourism and evaluation of the visitors views related to the
+  2020       no  a conceptual model of medical tourism service supply chain
+  2010       no  buyuk olcekli otel isletmelerinin yiyecek icecek unitelerinde uretim dengesini bozan uretim kayiplarinin rapor edilmesi
+  2016       no  turizm ve cevre iliskisinin ekonometrik bir analizi
+  2011       no  assessment of world tourism from a geographical perspective and a comparative view of leading destinations in the market
+  2016       no  technical climate change adaptation options of the major ski resorts in bulgaria
+  2009       no  asperity along the north anatolian fault imaged by magnetotellurics at duzce turkey
+  2018       no  does team psychological capital moderate the relationship between authentic leadership and negative outcomes an investigation in the hospitality industry
+  2010       no  a model proposal on the use of creative tourism experiences in congress tourism and the congress marketing mix
+  2019       no  vulnerable geosites of cayirbagi calkoy duzkoy trabzon in the eastern black sea region of ne turkey and their geotourism potential
+  2021       no  an impact study of covid 19 on six different industries automobile energy and power agriculture education travel and tourism and consumer electronics
+  2020       no  the interplay between socioemotional wealth and family firm psychological capital in influencing firm performance in hospitality and tourism
+  2016       no  antalya daki paydaşlar acisindan sağlik turizminin kamu politikasi perspektifinde değerlendirilmesi
+  2017       no  examination of urban hotels online review site performance with a comparative approach based on tripadvisor and booking
+  2003       no  finansal kiralama leasing ve turizm isletmelerinde uygulanmasi the application of leasing in tourism industry
+  2021      YES  gen z tourists and smart devices
+  2012       no  şehirlerin turistik markalasmasinda kalkinma ajanslarinin rolu bolge planlari uzerine bir dokuman incelemesi
+  2016       no  turkiye de turizm ve ticari aciklik arasindaki ilişki toda ve yamamoto nedensellik yaklaşimi 1 the relationship between tourism and trade openness in turkey toda and yamamoto causality approach
+  2017       no  understanding the impact of turkish tv series on inbound tourists a case of saudi arabia and bulgaria
+  2010       no  the tourism sector at creating employment and the effects of 2008 global crisis on turkey s tourism employment
+  2010       no  mass tourism development and deforestation in turkey
+  2015       no  revisiting the environmental kuznets curve hypothesis in a tourism development context
+  2015       no  internship satisfaction of students of hospitality and impact of internship on the professional development and industrial perception
+  2021       no  new practices in the tourism sector during covid 19
+  2019       no  opinions of the workers in the hotel kitchens of cappadocia region on kitchen hygiene situations
+  2021       no  mali tablolarin dikey yuzdeler yontemi ile analizi bist turizm sektorunde bir uygulama 2019
+  2016       no  gaziantep ilinin turizm acisindan swot analizi ve turizmin gelistirmesine yonelik oneriler
+  2012       no  isgoren seciminde ve orgut ici is yasaminda siyasi ayrimcilik otel isletmelerinde bir arastirma
+  2017       no  turizm cografyasi dersine iliskin gelecek zaman perspektifinin ders basarisina etkisi
+  2020       no  kultur ve inanc turizmi kapsaminda ziyaretcilerin seyahat profillerinin incelenmesi sille ornegi
+  2016       no  destinasyon markalasmasinda yerel simgelerin logo ve amblemlerde kullanilmasi mugla arastirmasi
+  2014       no  a conceptual study on the effect of learning tourism regions on city marketing
+  2009       no  exterior color and perceived retail crowding effects on tourists shopping quality inferences and approach behaviors
+  2014       no  corrigendum to a hybrid multi criteria decision making model to evaluate hotel websites int j hosp manag 36 2014 263 271
+  2002       no  the hospitality industry culture profile a measure of individual values organizational culture and person organization fit as predictors of job satisfaction and behavioral intentions
+  2012       no  the role of travel intermediaries in the development of sustainable mountain tourism the case of turkey
+  2021       no  bisiklet turizmi baglaminda bisiklet dostu şehir uygulamalarina yonelik bir arastirma twitter ornegi
+  2016       no  turizm sektorundeki işletmelerinin etkinliklerinin veri zarflama analizi ile olculmesi
+  2012       no  residents attitudes toward tourism development a structural model via akcakoca sample
+  2020       no  kalkinma planlarinda turizm icerik analizi yontemi ile turkiye kalkinma planlarinin analizi
+  2019       no  travel motivations of iranian tourists to turkey and their satisfaction level with all inclusive package tours
+  2013       no  tourism energy consumption and climate change in oecd countries
+  2020       no  strategy implementation research in hospitality and tourism current status and future potential
+  2021       no  every storm will pass examining expat s host country destination image cultural intelligence and renewed destination loyalty in covid 19 tourism
+  2021       no  a bibliometric profile of the tourism economics sub field in turkish academic community
+  2021       no  financial impacts of covid 19 on tourism evidence from some listed companies
+  2015       no  the effects of person organization fit on job performance and intention to remain in hospitality business
+  2021       no  which construct is better at explaining residents involvement in tourism emotional solidarity or empowerment
+  2006       no  performance measurement in tourism a value chain model
+  2017       no  the relationship between leisure satisfaction and life satisfaction in food and beverage establishments
+  2018       no  kadin girisimciler ve turizm mevcut durum ve sorunlar uzerine sinop ilinde bir arastirma
+  2012       no  ekolojik tatil ciftliklerinin tatuta projesi deneyimine iliskin ornek olay incelemesi
+  2012       no  intravenoz anesteziklerin vaskuler endotel uzerine etkileri
+  2020       no  otel isletmelerinde gida israfina yonelik davranislarin isletme karliligina etkisi eskisehir ornegi
+  2021       no  el sanatlarinin turizme katkisi mevcut durumu sorunlari ve cozum onerileri uzerinde sinop orneginde bir arastirma
+  2016       no  competitive intelligence practices in hotels
+  2013       no  devotion hospitality and architecture in medieval anatolia
+  2002       no  a comparison of tourist evaluation of beaches in malta romania and turkey
+  2015       no  seyahat acentelerinin e hizmet uygulamalarinin kalitesinin olcumu bir model onerisi
+  2008       no  the assessment of greece s image as a tourism destination
+  2006       no  turkiye de turizm gelirlerinin ekonomik buyumeye etkisinin testi yapisal kirilma ve nedensellik analizi
+  2019       no  the mediating role of mobbing in the relationship between personal value and depression a case study of hospitality employees
+  2020       no  antimicrobial susceptibility profiles of prevotella species determined by gradient test method in two centers in istanbul
+  2018       no  cultural heritage conservation and culture led tourism conflict within the historic site in beyoğlu istanbul
+  2012       no  social impact of sustainable ecotourism cases from turkey
+  2014       no  a hybrid multi criteria decision making model to evaluate hotel websites
+  2021       no  yerel halkin festival turizmine yonelik algilarinin degerlendirilmesi uluslararasi kahramanmaras dondurma ve kultur sanat festivali ornegi
+  2021       no  a comparative study oriented tourism advertisements in turkey the internality of the oriental self
+  2019       no  what does being an aristotelian really mean
+  2017      YES  iot for hospitality industry paperless buffet management
+  2015       no  study of the relationship between leisure time activities and assertiveness levels of students of abant izzet baysal university
+  2009       no  images of italy france and morocco as tourist destinations
+  2015       no  2000 li yillarda turkiye icin turizm yanli buyume hipotezinin analizi
+  2015       no  turistlerin tatil donemlerinde sergiledikleri liminoid davranislar
+  2021       no  economic impacts of the pandemic on the tourism of the developing world the case of covid 19
+  2017       no  health tourism based destination marketing
+  2020       no  a case study for identification of organic silt bottom sediments in an artificial lake formed in gravel alluvium in the geotourism locality of slnecne jazera in senec bratislava slovakia
+  2013       no  how do hotels state their missions evidence from an emerging country
+  2021       no  the effect of place personality on resident welcoming tourist through positive and negative impacts of tourism
+  2020       no  hotel employees corporate social responsibility perception and organizational citizenship behavior perceived external prestige and pride in organization as serial mediators
+  2015       no  konaklama işletmelerinde mobbing orgutsel guven ilişkisi canakkale ilinde bir araştirma
+  2016       no  sustainable environment in tourism policies the case of turkey
+  2020       no  effects of congruence between individuals and hotel commercials construal levels on purchase intentions
+  2007       no  comparison of arima neural networks and hybrid models in time series tourist arrival forecasting
+  2013       no  architectural innovations are competitive advantage for hotels in tourism industry what customers managers and employees think about it
+  2006       no  the impact of technology in hotels a case study of istanbul and ankara hotels
+  2014       no  turizm isletmelerinde tutundurma faaliyetlerinin belirlenmesine yonelik bodrum yoresinde bir arastirma evaluating the promotion activities employed by tourism firms in bodrum region
+  2017       no  yerel halk tutumlarinin kirsal turizme etkisi pazar ilcesi ornegi
+  2019       no  analysis of the relationship between the academic self efficacy and leisure satisfaction levels of university students
+  2020       no  antalya da yer alan konaklama tesisleri yoneticilerinin covid 19 kapsaminda alinabilecek tedbirler uzerine gorusleri
+  2015       no  a causality analysis of tourism revenues and economic growth on selected mediterranean countries
+  2018       no  heterogeneity in the determinants of length of stay across middle age and senior age groups in thermal tourism
+  2015       no  turizm potansiyeli olan bolgelerde toplumsal kapasite algisi adiyaman orneği
+  2017       no  izmir medikal turizm kumelenme potansiyeli
+  2016       no  turizm işletmelerinde insan kaynaklari yonetimi işlevi olarak koruma ve geliştirme kapsamindaki sorunlar kavramsal bir değerlendirme
+  2007       no  the projects of turkiye in the 2023 for cruise tourism
+  2007       no  labor transformation through the prism of the household evidence from the turkish tourism industry
+  2013       no  self congruity influence on tourist behavior repeat visitors versus non visitors and first time visitors
+  2013       no  impact of strategy on efficiency in the luxury hotel industry of turkey
+  2019       no  positive tourism edited by sebastian filep jennifer laing and mihaly csikszentmihalyi oxon uk routledge 2017 218 pp us 102 hardcover isbn 13 978 1 13890 065 3
+  2012       no  understanding the past managing the future remotely sensed analysis of the urban sprawl of istanbul for supporting decision making for a sustainable future
+  2016       no  goller bolgesindeki yerel halkin sosyo demografik ozelliklerinin turizm aliskanliklari uzerindeki etkisi socio demographic factors of local people in the lakes region and its investigation of holiday habits
+  2019       no  burnout on employees organizational commitment five star hotel employees
+  2019       no  a qualitative method to determine problems in tourism sector focus group interviews
+  2020       no  leisure and scuba diving safety tips during and after covid 19
+  2020       no  covid 19 technology social connections loneliness and leisure activities an international study protocol
+  2020       no  the effect of the festivals on the development of tourism with the support of residents the case study of zeytinli rockfest in edremit
+  2012       no  bats and tourism a response to paksuz ozkan
+  2012       no  assessment of urban heat islands using remotely sensed data
+  2015       no  leisure experience tagged on facebook the influence of facebook experiences on satisfaction
+  2020       no  dissatisfaction with life and absence of leisure time activity clues to overt depression and occult suicide risk in elderly individuals without significant disabling disease
+  2013       no  electrical characterization of the north anatolian fault zone underneath the marmara sea turkey by ocean bottom magnetotellurics
+  2012       no  economic impact of religious tourism in mardin turkey
+  2015       no  otel isletmelerinin is cevresi ozelliklerinin kurum kulturu turleri uzerindeki etkisi
+  2021       no  how do residents perceive tourism development a small community perspective
+  2015       no  privacy of personal information in tourism sector turizm sektorunde kisisel bilgilerin mahremiyeti
+  2014       no  cge assessment of tourism policies in turkey
+  2016       no  muslim friendly tourism mft a discussion
+  2016       no  ingiliz gezgin edwin john davis in seyahatnamesine gore xix yuzyilin son ceyreğinde adana ve cevresi
+  2013       no  undergraduate students and academicians views on internship process in tourism education a research in btioyo lisans duzeyinde turizm egitimindeki staj uygulamasina ogrenci ve akademisyenlerin bakislari btioyo da uygulama
+  2015       no  gastronomi turizmi ve turkiye yi ziyaret eden yabanci turistlerin gastronomi deneyimlerinin degerlendirilmesi
+  2014       no  nis niche pazarlama ve hatay turizmine yonelik nis pazarlama stratejilerinin belirlenmesi niche marketing and defining niche marketing strategies towards tourism in hatay
+  2019       no  are pulmonologists well aware of planning safe air travel for patients with copd the safcop study
+  2006       no  ethical ideologies of tourism marketers
+  2010       no  unsupervised classification of remotely sensed images via independent component analysis
+  2020       no  healthcare service provider type selection of the medical tourists by using neutrosophic sets
+  2014       no  the benefits risks and effects on performance of the outsourcing a comparative study of seasonal and permanent hotels
+  2020       no  regression kriging to improve basal area and growing stock volume estimation based on remotely sensed data terrain indices and forest inventory of black pine forests
+  2021       no  bridging eastern and non eastern turkey a study on the effectiveness of a tourism based intervention
+  2016       no  gastronomi eğitiminde gec mi kalindi acele mi ediliyor
+  2019       no  the prioritization of natural historical based ecotourism strategies with multiple criteria decision analysis in ancient unesco city iznik bursa case
+  2015       no  the role of servicescape and image perceptions of customers on behavioral intentions in the hotel industry
+  2016       no  the use of green star certificates as a marketing tool on hotel websites
+  2010       no  telemedicine and biotelemetry for e health systems theory and applications
+  2020       no  gastrotourism according to the 24 solar terms regimen
+  2021       no  case study as a research method in hospitality and tourism research a systematic literature review 1974 2020
+  2006       no  gap analysis in customer loyalty a research in 5 star hotels in the antalya region of turkey
+  2020       no  effects of participation on place attachment in diaspora tourism of circassians living in turkey
+  2018       no  related variety and innovation evidence from the tourism industry
+  2017       no  image and tourist discourses turkey seen by advertisements
+  2012       no  ministers statements a policy implementation instrument for sustainable tourism
+  2015       no  faith tourism potential of konya in terms of christian sacred sites
+  2013       no  impacts of exported turkish soap operas and visa free entry on inbound tourism to turkey
+  2013       no  alanya daki otel isletmelerinin dis kaynak kullanimina yonelik tutumlarinin incelenmesi
+  2008       no  an econometric model of tourism demand and room rates a study in belek antalya
+  2009       no  work engagement among hotel managers in beijing china potential antecedents and consequences
+  2017       no  kriz yonetimi uygulamalari uluslararasi bir otelin kriz yonetim planinin analizi
+  2010       no  the effects of perceived organisational support on employees affective outcomes evidence from the hotel industry
+  2010       no  the effects of perceived organisational support on employees affective outcomes evidence from the hotel industry
+  2015       no  macro economic determinants of travel and leisure sector a co integration analysis from turkey
+  2012       no  unlocking the potential of religious tourism in turkey
+  2017      YES  sanal gerceklik uygulamalarinin destinasyon pazarlamasinda kullanilmasina yonelik kavramsal bir calisma a conceptual study on the use of virtual reality applications in destination marketing
+  2020       no  the causal relationships between international trade and international tourism in nafta countries applications of time and frequency domain approaches
+  2021       no  post covid 19 chinese domestic tourism market recovery potential influence of traditional chinese medicine on tourist behaviour
+  2016       no  toplu tasimada en az aktarma kriterine gore seyahat planlama icin matematiksel model
+  2010       no  web based destination marketing do official city culture and tourism websites in turkey consider international guidelines
+  2016       no  history of tourism development in turkey
+  2020       no  challenges and opportunities that the covid pandemic brings to rural tourism a case of trilye bursa
+  2014       no  turđstđk destđnasyon đmajinin pazar bolumlerđ algilamalari arasindakđ farkliliklara yonelđk bđr aratirma a research on the differences between perceptions of market segments in touristic destination images
+  2021       no  investigation of the optical mechanical and radiation shielding features for strontium borotellurite glass system fabrication characterization and epics2017 computations
+  2016       no  explaining destination choices based upon recreational opportunities through intrinsic and extrinsic travel motivations rekreasyonel olanaklara dayali yapilan destinasyon tercihlerinin icsel ve dissal seyahat motivasyonlariyla aciklanmasi
+  2017       no  duygusal emek tukenmislik ve isten ayrilma niyeti arasindaki iliski otel isletmesi calisanlari uzerine bir arastirma
+  2018       no  motivations of event tourism participants and behavioural intentions
+  2016       no  leisure times of their children from mother s percpective the effect of rural and urban life anne perspektifinden cocuklarinin serbest zamanlari kirsal ve kentsel yasamin etkisi
+  2019       no  career development in tourism industry
+  2021       no  spatial panel data analysis of the relationship between tourism and income inequality
+  2008       no  the differences between the usage of information technologies in city and resort hotel establishments the case of turkey
+  2020       no  otel isletmelerinde calisan yoneticilerin stajyer kavramina iliskin algilarina yonelik metafor analizi
+  2011       no  the impact of employee motivation on emotional commitment research undertaken in a five star hotel
+  2012       no  determining of college students trends about tourism sector a case study at akdeniz university
+  2016       no  usage of e loyalty programs in hospitality industry
+  2019       no  investigation of recreation wear to athleisure wear process in the different market segmentation
+  2020       no  destinasyon askinin destinasyon sadakati uzerindeki etkisi bozcaada ornegi
+  2021       no  surviving a major crisis the case of dismissed tourism and hospitality employees
+  2019       no  comparing identification of clinically relevant prevotella species by vitek ms and maldi biotyper
+  2017       no  achieving sustainable buildings via energy efficiency retrofit case study of a hotel building
+  2019       no  neoliberal collaboration of tourism academia and industry the case of destination governance
+  2020       no  hizmet ortami musteri memnuniyeti ve tekrar ziyaret etme niyeti iliskisi resort otellerde bir arastirma
+  2010       no  customer profitability analysis with time driven activity based costing a case study in a hotel
+  2009       no  filmlerin ve televizyon dizilerinin destinasyon imajina etkileri
+  2013       no  effects of information technologies over decision making process about cost controlling at food and beverage departments at five star hotels
+  2017       no  investigation of disability level leisure satisfaction and quality of life in disabled employees
+  2013       no  mobility creating context for tourism
+  2003       no  niche overlap competition and homogeneity in the organizational clusters of hotel population
+  2018       no  tourism demand analysis the impact of the economic policy uncertainty on the arrival of japanese tourists to the usa
+  2016       no  turizm perspektifinden yabancilasmanin sosyo psikolojik analizi gunluk yasamdan turistik yasama yabancilasma dongusu
+  2021       no  origins evolution and themes of scholarly hospitality sources 1960 2019
+  2020       no  examining the asymmetric effects of globalization and tourism on pollution emissions in south asia
+  2016       no  accessibility of hotels for people with visual impairments from research to practice
+  2021       no  the effects of globalization and terrorism on tourist arrivals to turkey
+  2018       no  babelfy based extraction of collocations from turkish hotel reviews
+  2018       no  sustainable urban tourism success factors and the economic performance of small tourism enterprises
+  2013       no  current trends in developing urban tourism
+  2016       no  determination of communication and problem solving skills of students of tourist guiding department turizm rehberligi bolumu ogrencilerinin iletisim ve problem cozme becerilerinin belirlenmesi
+  2020       no  a quality measurement proposal for corporate social network sites the case of hotel facebook page
+  2020       no  12th congress wfitn 9th to 14th november 2013 hotel hilton buenos aires argentina
+  2015       no  differences in service quality perceptions of stakeholders in the hotel industry
+  2020      YES  an integrated fuzzy best worst topsis method for evaluation of hotel website and digital solutions provider firms
+  2019       no  turistik destinasyon yonetiminde paydaslar arasi iliskiler goller yoresi ornegi
+  2016       no  components of cultural tourists experiences in destinations
+  2021       no  applying industry 4 0 on management of gastronomy events
+  2020       no  akilli turizm arac ve uygulamalarina iliskin turizm isletmesi yoneticilerinin gorusleri eskisehir uzerine nitel bir arastirma
+  2014       no  measuring food and beverage service quality in spa hotels a case study in balikesir turkey
+  2019      YES  big data and its supporting elements implications for tourism and hospitality marketing
+  2013       no  the effect of social media utilization on holiday decisions of tourists a study on academic staff sosyal medya kullaniminin turistlerin tatil kararlarina etkisi akademik personel uzerinde bir uygulama
+  2019       no  contribution of tourism to economy in european union and turkey
+  2020       no  isgorenlerin orgutsel dislanma algilarinin orgutsel sessizlik ve olumsuz durumlari bildirme egilimlerine etkisi otel isletmeleri ornegi
+  2019       no  turkiye de seyahat acentelerinde halkla iliskiler araci olarak sosyal medyanin kullanimi
+  2020       no  small sized tourism projects in rural areas the compounding effects on societal wellbeing
+  2019       no  konaklama isletmelerinde peyzaj duzenlemelerinin onemi
+  2015       no  gaining competitive advantage in tourism marketing a text mining approach to hotel visitors comments in durres
+  2005       no  mardin iline gelen yerli turistlerin profil ve turistik davranişlarini belirlemeye yonelik bir araştirma a research to determine the touristic behaviours and profiles of domestic tourists arriving to the mardin province
+  2019       no  stajyerler seyahat isletmesi sahipleri ve yoneticileri bakis acisiyla
+  2017       no  the ecotourism perception of graduate and postgraduate tourism students for antalya destination
+  2010       no  onion a food spice and remedy in the middle eastern gastronomy
+  2010       no  tatil yeri kararinin verilmesinde karar agaci ve etki diyagraminin uygulanmasi
+  2020       no  hospitality brands what do consumers want
+  2020       no  the relationship between sustainable economic development and tourism in turkey panel data analysis
+  2019       no  legal changes in turkish labor law reflected on tourism workers
+  2011       no  utilization of natural and cultural resources of dikili izmir for tourism
+  2010       no  marketing of turkey as a tourism destination
+  2020       no  otel isletmesi calisanlarinda is stresinin isten ayrilma niyetine etkisinde gorev yapilan departmanin moderator rolu
+  2020       no  the impact of tourism on co2 emission in turkey
+  2013       no  polonyali hotel lambert ve buyuk sirbistan naaœertanije plani 1840 1844
+  2002       no  two dimensional inversion of magnetotelluric data with cg and svd a comparisonal study of different stabilizers
+  2017       no  turistik destinasyonlarda pazarlama kararlarinin marka konumlandirma acisindan degerlendirilmesi cesme ilcesine yonelik bir alan arastirmasi
+  2021       no  systematic review of meta analysis studies in the tourism and hospitality literature
+  2006       no  urban tourism an analysis of visitors to istanbul
+  2006       no  urban tourism an analysis of visitors to istanbul
+  2016       no  a research on effectiveness of web sites in announcing corporate social responsibility activities of chain and group hotels the case of turkey
+  2020       no  perceived value and its impact on travel outcomes in youth tourism
+  2021       no  the impact of covid 19 on the rural second home tourism case of eastern black sea region turkey
+  2012       no  the levels of using strategic management tools and satisfaction with them a case of five star hotels in turkey
+  2020       no  a conceptual review of last chance tourism the case of turkey
+  2020       no  genc turistlerin destinasyon tercihleri ve tavsiye etme niyetlerinin incelenmesi istanbul ornegi
+  2019       no  wellness and tourism mind body spirit place
+  1996       no  resident attitudes toward tourism impacts
+  1999       no  uc dort ve bes yildizli otellerin sanitasyon durumunun haccp yontemi ile degerlendirilmesi
+  2015       no  turizm ogrencilerinin sendika algisi universite ogrencileri uzerine bir arastirma
+  2005       no  leisure during war the case of gallipoli the dardanelles war of 1915 in wwi
+  2020       no  a conceptual study of the strategic role of gastronomy in tourism destinations
+  2020       no  a conceptual study of the strategic role of gastronomy in tourism destinations
+  2015       no  rapid emergency medicine score and hotel score in geriatric patients admitted to the emergency department
+  2016       no  mersin aydincik ilcesi ve cevresinin kultur turizmi potansiyeli acisindan değerlendirilmesi
+  2021       no  marketing tourism and hotel management schools in the context of higher education globalization and student mobility through improved curriculum and industrial training offerings
+  2008       no  intellectual capital in metropolitan hotels
+  2021       no  tourist experiences of guided culinary tours the case of istanbul
+  2018       no  identifying and assessing environmental awareness of hotel and restaurant employees attitudes in the amasra district of bartin
+  2011       no  organizational commitment in hotel businesses an analysis of the differences in terms of demographic variables
+  2016       no  tourism in national capitals and global change
+  2019       no  exploring the impact of tourist harassment on destination image tourist expenditure and destination loyalty
+  2010       no  approaches in investigating romania s image as a tourist destination among the turkish students
+  2016       no  the role of social media on leisure preferences a research on the participants of outdoor recreation activities
+  2019       no  the influence of corporate social responsibility in hospitality establishments on students level of commitment and intention to recommend
+  2014       no  hybrid structures in tourism industry innovative models sociological insights and multilevel approaches
+  2010       no  modeling above ground litterfall in eastern mediterranean conifer forests using fractional tree cover and remotely sensed and ground data
+  2012       no  cultural tourism in turkey a missed opportunity
+  2019       no  strategic planning of tourism with an emphasis on spirituality based on new integration of multi criteria decision making techniques
+  2015       no  uygulamada menu analizi nasil yapilmaktadir bes yildizli otellerin mutfak şeflerinin gorusleri
+  2013       no  sosyotropik otonomik kisilik ozelliklerinin calisanlarin motivasyonuna etkisi ankara da bulunan konaklama isletmelerinde yapilan bir arastirma
+  2018       no  the impact of tourism on the cultural environment in turkey the case of antalya
+  2021       no  we always open our doors for visitors hospitality as homemaking strategy for refugee women in istanbul
+  2021       no  turkiye de kis turizmine yonelik yapilan calismalar uzerine bir meta analizi
+  2021      YES  the integration of the blockchain technology into wine tourism
+  2014       no  organic tourism as a tool to raise healthy tourism destinations an investigation in turkey
+  2021       no  impact of the covid 19 pandemic on management level hotel employees work behaviors moderating effects of working from home
+  2017       no  coping with rm challenges in hospitality education
+  2015       no  sakarya destinasyonunun imaj algisina yonelik bir arastirma
+  2021       no  turizm sosyolojisine iliskin yeni gelismeler
+  2012       no  fault zone conductors in northwest turkey inferred from audio frequency magnetotellurics
+  2016       no  listing a geological rarity of stone balls in kysuce among world geotourism destinations
+  2007       no  rankings of tourism and hospitality departments a case of turkey
+  2016       no  arazi kullanimi planlamasi yonunden karpaz yarimadasi nin turizm alanlari an assesment of in terms of land use planning in the karpaz peninsula tourism areas
+  2020       no  ayvalik an as art route for tourism guides within the frame of art tourism
+  2017       no  an overview of franchising in the hospitality industry of turkey
+  2017       no  an overview of franchising in the hospitality industry of turkey
+  2015       no  perceptions of tourism students on thermal tourism in afyonkarahisar
+  2015       no  crustal structure at the vicinity of nigde massif and central anatolian fault zone from magnetotelluric data
+  2007       no  long distance air travel a potential new risk factor for cerebral sinus thrombosis
+  2020       no  detection of beta lactamase production in clinical prevotella species by maldi tof ms method
+  2019       no  effects of brand personality self congruity and functional congruity on hotel brand loyalty
+  2015       no  biyotelemetri ve balikcilikta kullanimi biotelemetry and usage in fishing
+  2005       no  kolo rektal kanserlerde vaskuler endotelial buyume faktoru vebf ekspresyonunun prognoz uzerine etkisi
+  2017       no  an undervalued department or a terra incognita hotel housekeeping from the perspectives of executive housekeepers and room attendants
+  2021       no  consumer complaining behavior in hospitality management
+  2004       no  edremit kucukkuyu arasindaki turizm faaliyetlerinin kiyi alanlarina etkisi ve onerilen yonetim programi
+  2021       no  review of the studies related to covid 19 and tourism using text mining techniques
+  2016       no  leisure entertainment and sports at 1960 1980 period in turkey
+  2017       no  kureselleşmenin turizm pazarlama karmasi elemanlari uzerindeki etkileri
+  2016       no  an evaluation of ecotourism potentials of rumkale archaeological region
+  2020       no  halal tourism definitional conceptual and practical ambiguities
+  2007       no  shopping risk perceptions effects on tourists emotions satisfaction and expressed loyalty intentions
+  2018      YES  an analysis of travelling salesman problem utilizing hill climbing algorithm for a smart city touristic search on openstreetmap osm
+  2013       no  cox 1 enzimi ve endotel disfonksiyon arasindaki iliski
+  2012       no  conflict and agreement in stakeholder attitudes residents and hotel managers views of tourism impacts and forest related tourism development
+  2020       no  medical tourism market and inter stakeholders relations in turkey a comparative investigation from reverse innovation and destination governance viewpoint
+  2016       no  medical tourism market and inter stakeholders relations in turkey a comparative investigation from reverse innovation and destination governance viewpoint
+  2016       no  1930 lu yillarda turkiye bulgaristan arasinda sosyo kulturel ve egitim amacli seyahatler
+  2015       no  the effects of perceived risk and cost on technology acceptance a study on tourists use of online booking
+  1989       no  the relationship between coastal tourism sea pollution and public health a case study from turkey
+  2018       no  kackar daginda buzul şekilleri yaylalar ve turizm
+  2021       no  shedding light upon the shadows exploring the link between country destination image and dark tourism
+  2015       no  gibrat orantili etki yasasinin borsa istanbul turizm şirketleri uzerinde sinanmasi
+  2018       no  an assessment of the impact of employee satisfaction on customer satisfaction in hotel enterprises
+  2011       no  the simultaneous effects of person organization and person job fit on turkish hotel managers
+  2020       no  innovation management in the tourism industry a literature review
+  2017       no  a case study assessing thermal activity at a significant geotourism locality of ema coal tailing dumps in the mining landscape of ostrava czech republic
+  2016       no  the impacts of student and life satisfaction on tourism students perceived sense of belonging
+  2019       no  şehir turizminde faaliyet gosteren otellere yonelik e yorumlarin incelenmesi eskisehir ili ornegi
+  2020       no  the effects of consumer confusion on hotel brand loyalty an application of linguistic nonlinear regression model in the hospitality sector
+  2021       no  the integration of social media into event tourism
+  2018       no  review of strategic management studies on tourism
+  2014       no  conflict management methods of managers an empirical study of the turkish tourism industry
+  1997       no  the importance of topographic corrections on magnetotelluric response data from rugged regions of anatolia
+  2020       no  travel and tourism competitiveness of economies around the world using rough swara and todim method
+  2018       no  kulturel turizmin ekonomik sosyal ve cevresel etkilerine yonelik bir arastirma safranbolu ornegi a research on economic social and environmental impacts of cultural tourism safranbolu example
+  2020       no  lisansustu turizm ogrencilerinin akademik gudulenme bilimsel arastirma ozyeterlilik ve arastirma yapmaya yonelik kaygilarinin degerlendirilmesi
+  2019       no  traveling salesman problem with hotel selection comparative study of the alternative mathematical formulations
+  2016       no  seyahatnamelere gore gerede bolu el sanatlari
+  2012       no  the european customer satisfaction index model an application to the international hotel
+  2020      YES  internet of things in tourism a proposal of the information system for cappadocia hot air ballooning
+  2017       no  a study of domestic honeymoon tourism in turkey
+  2017       no  usage of interactive technologies in tourism guidance education a research on educational institutions at the level of bachelor degree
+  2015       no  competitive importance performance analysis cipa an illustration from thermal tourism destinations
+  2016       no  kulturel kimliğin ve coğrafi işaretin turistik hediyelik eşyada kullanimi turkiye orneği
+  2018       no  tourist route planning with a metaheuristic approach
+  2019       no  cekirdek kapadokya bolgesinde atli doğa yuruyuşu faaliyetlerine katilan turistik tuketicilerin profilini belirlemeye yonelik bir calişma
+  2011       no  a probabilistic approach to detect urban regions from remotely sensed images based on combination of local features
+  2016       no  role of tour guides on tourist satisfaction level in guided tours and impact on re visiting intention a research in istanbul
+  2019       no  the role and importance of rural tourism on the development and promotion of cultural heritage tourism
+  2016       no  nomadic organization structure and mimetic isomorphism in tourism establishments focus on small enterprises in fethiye
+  2015       no  turk turistlerin tatil satinalma surecinde alternatiflerin degerlendirilmesinde icsel bilginin rolu
+  2019       no  determinants of hotel guests satisfaction from the perspective of online hotel reviewers
+  2021       no  the effects of covid 19 on turkey s tourism economy an assessment within the scope of employment and tourism revenues
+  2017       no  an analysis of publication bias in the travel tourism and hospitality research
+  2019       no  turizm meslek lisesi ogrencilerinin demografik degiskenlerine gore mesleki baglilik duzeylerinin incelenmesi
+  2014       no  determining the role of fluids near a slab window in central anatolia turkey by magnetotellurics method
+  2021       no  11 eylul saldirilari ve 2008 ekonomik krizi ornekleri uzerinden teror ve ekonomik kriz olgularinin yumusak guc unsuru olarak turizme etkileri
+  2009       no  an empirical analysis of the determinants of international tourism demand the case of izmir
+  2014       no  turistlere yonelik teror saldirilarinin turizme etkisi turkiye uzerine ampirik bir calisma
+  2019       no  gender discrimination in tourism industry
+  2015       no  investigation of leisure activity assessment modes of the university students studying at school of physical education and sport
+  2020       no  the relationships among nostalgic emotion destination images and tourist behaviors an empirical study of istanbul
+  2017       no  neuromarketing aspect of tourism pricing psychology
+  2015       no  the effect of corporate social responsibility csr perception on tourism students intention to work in sector
+  2015       no  a miniature implantable microstrip antenna design for dual band biotelemetry operations
+  2020       no  using ahp to prioritize barriers in developing medical tourism case of turkey
+  2016       no  engelli musterilerin konaklama isletmelerine iliskin etik tutum ve beklentilerinin belirlenmesi
+  2016       no  importance of tourism paradox tourism equinox and tourism detox for urban environments
+  2009       no  a look for low season tourist profile antalya region of turkey example
+  2017       no  mobil cagda mobil uygulamalar turkiye deki yerli otel zincirleri uzerine bir durum tespiti
+  2020      YES  hotel recommendation system based on user profiles and collaborative filtering
+  2017       no  tourism development and economic growth a panel granger causality analysis in the frequency domain
+  2021       no  konya da faaliyet gosteren 5 yildizli otel yoneticilerinin gelir yonetimine bakislari
+  2016       no  anti vaskuler endotelyal buyume faktor monoklonal antikoru bevasizumab in bobrek fonksiyonlari ve morfolojisi uzerine olan etkileri effects of bevacizumab an anti vascular endothelial growth factor monoclonal antibody on kidney function and morphology
+  2015       no  kuresel duzeyde kulturel bir tanitim ve marka araci olarak turizm logolari
+  2014       no  turizm sektorundeki kadin girişimcilerin bireysel değerlerinin demografik ozellikleri acisindan incelenmesi antalya ili orneği
+  2020       no  the effect of freedom on international tourism demand empirical evidence from the top eight most visited countries
+  2019       no  environmentally friendly behaviour of the tourists who uses hot air balloon and their attitude towards air pollution
+  2016       no  saglik turizmi sozlesmesi
+  2020       no  literary tourism as a field of research over the period 1997 2016
+  2021       no  examining residents cultural intelligence place image and foreign tourist attractiveness a mediated moderation model of support for tourism development in cappadocia turkey
+  2019       no  otel isgorenlerinin orgutsel dislanma algilarinin orgutsel sinizm duzeylerine etkisi bes yildizli otel isletmelerinde bir arastirma
+  2020       no  kultur turizminin kadin girisimcilerin yaptiklari yeniliklere etkisi bogatepe koyu nun ornek vaka analizi ile incelenmesi
+  2021       no  tourism sector and environmental quality evidence from top 20 tourist destinations
+  2015       no  an examination of adolescents attitudes towards leisure activities
+  2009       no  rfid based action tracking for measuring the impact of cultural events on tourism
+  2011       no  analysis of the potential for ecotourism in golhisar district
+  2003       no  market segmentation based on customers post purchase performance evaluation a case of tourist diners
+  2011       no  profiling of english tourists visiting turkey based on attitudes toward internet use in vacation decision making
+  2006       no  mohr circle based rotational invariants of a magnetotelluric data set from the thrace region of turkey geological implications
+  2015       no  relationship of childhood headaches with preferences in leisure time activities depression anxiety and eating habits a population based cross sectional study
+  2020       no  online yorumlarin faydali bulunma durumunun incelenmesi konaklama isletmeleri uzerine bir arastirma
+  2018       no  is do it right the first time necessarily right the importance of error management culture in the hospitality industry
+  2016       no  sakarya nin kongre turizmi pazari analizi yerel paydaslar uzerine bir arastirma
+  2011       no  an integrated case based reasoning and mcdm system for web based tourism destination planning
+  2014       no  dinleme davranisinin musterinin satin alma niyeti ve satin alma davranisina etkisi seyahat acentasi satis temsilcileri kapsaminda bir arastirma
+  2006       no  perceived image of turkey by us citizen cultural tourists
+  2011       no  employment of the workforce with disabilities in the hospitality industry
+  2017       no  does tourism really affect the happiness of residents the evidence from turkey
+  2021       no  cost optimization of the medical tourism market research project in poland and turkey
+  2016       no  konaklama isletmelerinde calisanlarin musteri odakliliginin isgoren devrine etkisi is tatmininin aracilik rolu
+  2016       no  reasons of choosing recreation management departments within the body of tourism faculties and expectations of students
+  1987       no  visual quality assessment for recreation and tourism planning a case study of olympus national seashore in turkey
+  2013       no  a fuzzy approach to urban ecotourism site selection based on an integrated promethee iii methodology
+  2019       no  an assessment of slow cities as sustainable tourism tools in the context of historical urban landscape approach cases in turkey
+  2018       no  workplace deviance and human resource management relations a case study of turkish hotel employees
+  2014       no  turizm egitimiyle kazanilacak yetkinlikler yiyecek icecek musterisinin kalite beklentilerini karsiliyor mu
+  2011       no  telemedicine and biotelemetry for e health systems
+  2015       no  turizmin surdurulebilirligine yonelik yabanci turistlerin algi ve tutumlari marmaris ornegi
+  2017       no  şehir pazarlamasi ve markalaşmasi kapsaminda yozgat ilinin turizm potansiyelinin değerlendirilmesi ve oneriler
+  2019       no  what do tourists wonder about turkey s cultural heritage a study to determine frequently asked questions to tour guides
+  2011       no  tourism and generation y
+  2019       no  climate change vulnerability and resilience of tourism and the entire economy
+  2020       no  self regulation and self efficacy as mediators of achievement goals and leisure time physical activity a proposed model
+  2018      YES  classification performances of data mining clustering algorithms for remotely sensed multispectral image data
+  2016       no  career paths of hotel general managers in turkey
+  2019       no  intellectual structure of strategic management research in the hospitality management field a co citation analysis
+  2016       no  institutionalisation of tourism research and education from the early 1900s to 2000s
+  2012       no  socio cultural approaches to tourism a research on the tourist notion of young turkish people
+  2021       no  alloprevotella rava isolated from a mixed infection of an elderly patient with chronic mandibular osteomyelitis mimicking oral squamous cell carcinoma
+  2020       no  the effects of organizational support perception among tourism employees on job satisfaction the role of job crafting and work engagement
+  2018       no  barriers and preferences to leisure activities for wheelchair users in historic places
+  2006       no  linking scale of operation and labor transformation on tourism comparative analysis on three turkish cases
+  2014       no  constraints on leisure time physical activity at a public university
+  2015       no  effects of foreign demand increase in the tourism industry a cge approach to turkey
+  1990       no  factors affecting international tourism demand for turkey
+  2011       no  tourism research a 20 20 vision
+  2019       no  determination of undergraduate students alienation levels the case of anadolu university tourism faculty
+  2005       no  antimicrobial resistance and β lactamase production of clinical isolates of prevotella and porphyromonas species
+  2009       no  the sensitivity of german and british tourists to news shocks
+  2015       no  the importance of windsurf schools in tourism the case of alacati
+  2011       no  emerging importance of institutional capacity for the growth of tourism clusters the case of antalya
+  2020       no  organizational symbolism an overview of the tourism industry
+  2005       no  the analysis of relation between socio cultural economic and tourism development levels of the provinces in turkey
+  2009       no  leisure in the turkish context a preliminary account
+  2016       no  2008 kuresel krizinin turizm istatistikleri uzerindeki etkisinin cok değişkenli istatistiksel teknikler ve topsis metodu ile analizi
+  2016       no  turistik urun tuketicilerinin satin alma kararlarinda etnosentrik tutumlar baku de bir arastirma
+  2018       no  the determination of consumer rights knowledge level of youth a research on the tourism and hotel management students
+  2010       no  a long run equilibrium relationship between international tourism higher education and economic growth in northern cyprus
+  2021      YES  fusion of remotely sensed infrared and visible images using shearlet transform and backtracking search algorithm
+  2017       no  development of the marmarov remotely operated underwater vehicle system
+  2001       no  retrofitting sbr systems to nutrient removal in sensitive tourist areas
+  2019       no  turizm in sosyal politika islevi ve kirsal turizm turkiye ornegi
+  2020       no  saglik turizminde turkiye nin onemi ve tercih edilme sebeplerinin belirlenmesine yonelik bir arastirma
+  2016       no  surdurulebilir rekabetci ustunluk kaynagi olarak yenilik yetenegi bes yildizli konaklama isletmeleri uzerine bir arastirma
+  2016       no  linkages among ecotourism landscape and natural resource management and livelihood diversification in the region of sugla lake turkey
+  2017       no  turkish tourism exchange rates and income
+  2019       no  konaklama isletmelerinde yesil yonetim uygulamalarinin entropi yontemi ile agirliklandirilmasi giresun ili ornegi
+  2016       no  turizme hizmet sunan pastane isletmelerinde calisan dondurma uretim personelinin hijyen ve gida guvenligine iliskin bilgi ve uygulama duzeyi uzerine bir arastirma a research on knowledge and practice levels about food safety and hygiene of employees in
+  2018       no  international tourism and economic growth in transition economies panel causality analysis with structural changes
+  2010       no  work hours work intensity satisfactions and psychological well being among hotel managers in china
+  2013       no  demografik degiskenlerin kariyer tatminine etkileri antalya da 5 yildizli otel isletmelerinde bir arastirma
+  2019       no  imece kulturunun turizmde kullanimi bilecik kursunlu koyu
+  2015       no  overview of voluntourism in turkey defining the experience of volunteers and their motivation
+  2015       no  destinasyon marka imaji ve bir pazar bolumu olarak iş amacli gelen turistlere yonelik uygulanmasi
+  2017       no  is tourism an engine for economic recovery theory and empirical evidence
+  2014       no  leisure time marketing in the context of the entertainment industry
+  2016       no  parents thoughts towards their children participation in swimming course as a leisure time activity a qualitative research
+  2017       no  mobile advertising mobile advergame models for tourism marketing
+  2013       no  life satisfaction leisure satisfaction and perceived freedom of park recreation participants
+  2017       no  tourism education and internships a metaphor analysis
+  2011       no  termal turizmde tuketici satin alma davranişini etkileyen faktorlerin belirlenmesi gonen orneği determination of the factors affecting consumer purchase behavior in thermal tourism
+  2020       no  the relationship between organizational exclusion and the tourism industry
+  2016       no  adaptation of hospitality service quality scales for marina services
+  2020       no  anatomy of active volcanic edifice at the kusatsu shirane volcano japan by magnetotellurics hydrothermal implications for volcanic unrests
+  2016       no  political tourism tourist revisited extending the concept in a developing country s point of view a thought provoking case from turkey
+  2003       no  tourist profile research antalya region example 2001
+  2021      YES  digital transformation and revenue management evidence from the hotel industry
+  2015       no  security perceptions of the tourists visiting alanya according to their home country
+  2009       no  land cover changes on the coastal zone of candarli bay turkey using remotely sensed data
+  2019       no  lisans duzeyinde turizm egitimi alan ogrencilerin sosyal gorunus kaygisi ve benlik saygi duzeyleri arasindaki iliskinin incelenmesi
+  2012       no  social participation in sustainable tourism development
+  2016       no  sustainability reporting in the hospitality industry a research model proposal on sustainability performance
+  2016       no  local gastronomy a tasty tourist attraction in turkey
+  2017       no  a sustainable approach to social tourism development the case of izmir city
+  2013       no  discrimination in job application forms of hospitality industry
+  2019      YES  hotel recommendation system based on user profiles and collaborative filtering
+  2002       no  cultural landscape for tourism
+  2006       no  energy efficiency assessment for the antalya region hotels in turkey
+  2017       no  combining visual and textual data for assessing destination image lake tourism example
+  2013       no  canakkale ilinin termal turizm potansiyeli
+  2013       no  turizm isletmelerinde orgut kulturu ve liderlik davranisi etkilesimi mugla ili nde bir arastirma
+  2013       no  antecedents and consequences of work engagement among frontline employees in turkish hotels
+  2013       no  testing the validity of the travel and tourism competitiveness index in the world economic forum with classical and fuzzy data envelopment analyses
+  2021       no  intercultural competence in tourism and hospitality self efficacy beliefs and the dunning kruger effect
+  2012       no  radon concentration in hot springs of the touristic city of sarein and methods to reduce radon in water
+  2007       no  advancing destination competitiveness research comparison between tourists and service providers
+  2012       no  the role of spatial planning for sustainable tourism development a theoretical model for turkey
+  2014       no  bibliometric analysis of tourism and hospitality related articles published in turkey
+  2019       no  the impact of tourism demand on tax revenues and bank loans in turkey
+  2017       no  universite oğrencilerinin boş zamanlarini değerlendirme tercihleri selcuk universitesi turizm fakultesi orneği
+  2015       no  segmentation of tourist using demographic and travel characteristics the case of istanbul
+  2015       no  adana daki a grubu seyahat acentalarinin sorunlarini belirlemeye yonelik bir calisma
+  2015       no  hotel workers examined in terms of demographic variables the perceptions of social wellbeing the example of antalya
+  2013       no  analysis of security perceptions of foreign tourists the case of alanya
+  2021       no  social entrepreneurship activities in the tourism sector bibliometric analysis and social network analysis
+  2021       no  an empirical investigation of tourism led growth hypothesis in the european countries evidence from augmented mean group estimator
+  2019       no  an analysis of turkish social studies textbooks in terms of cultural and natural heritage and tourism
+  2008       no  predictors of burnout among middle managers in the turkish hospitality industry
+  2016       no  green star symbol for environmental friendly facilities in hotels in the context of sustainable tourism a research in konya turkey
+  2018       no  devam bagliligi presenteeism ve isten ayrilma niyeti arasindaki iliski bes yildizli otel isletmelerinde bir arastirma
+  2014       no  turizm egitimi alan ogrencilerin kariyer secimine etki eden kariyer capalarinin belirlenmesine yonelik bir arastirma
+  2006       no  a content analysis of repeaters self perceptions of tourist destinations
+  2014       no  sosyal medyada konaklama isletmelerine yonelik tuketici yaklasimlari uzerine bir arastirma
+  2016       no  turizm kumelenmesi uşak ili turizm kumelenme potansiyeli
+  2019       no  plasmodium falciparum malaria in a tourist patient a case report
+  2020       no  tea tourism and the importance of tea tourists guidance in india
+  2014       no  eskisehir in biricik destinasyon onerisi endustriyel miras
+  2014       no  green accounting applications in accommodation services as a part of sustainable tourism
+  2009       no  the relationship between outsourcing and organizational performance is it myth or reality for the hotel sector
+  2016       no  new toy of marketing communication in tourism gamification
+  2015       no  anadolu universitesi turizm arastirma ve uygulama birimi nde 2010 2013 yillari arasinda gerceklestirilen faaliyetler uzerine degerlendirme
+  2020       no  a content analysis on child friendly hotels as an emerging concept in tourism marketing
+  2015       no  mugla ili milas ilcesinin kultur turizmi acisindan incelenmesi
+  2016       no  musteri iliskileri yonetimi kapsaminda gizli musteri alisverisi zincir otel ornegi
+  2016       no  swot analysis of safranbolu city in terms of tourism
+  2005       no  antalya orman bolge mudurlugu nde av turizminin rekreasyonel arz talep yonunden incelenmesi
+  2021       no  the path of least resistance explaining tourist mobility patterns in destination areas using airbnb data
+  2016       no  awareness of turkish society about accessible tourism
+  2020       no  the changing nature of psychological contract in the tourism industry importance of employability
+  2016       no  tourism strategic and marketing planning and cultural cooperation channels between greece and turkey
+  2021      YES  smart contracts in tourism industry a model with blockchain integration for post pandemic economy
+  2014       no  health tourism and patient satisfaction in turkey the ankara example
+  2020       no  yoneticilerin iskolik davranislarinin yasam doyumlarina etkisi konaklama isletmeleri ornegi
+  2009       no  the role of climatic elements in public tendency towards alternative tourism a sample of turkey
+  2020       no  estimating the effects of tourism growth on emission pollutants empirical evidence from a small island cyprus
+  2012       no  factors affecting the e commerce adoption by small hotels a comparative case study
+  2021       no  web based gis for managing and promoting tourism in sub saharan africa
+  2014       no  the competitiveness of the european union tourism industry
+  2011       no  gender diversity in the hospitality industry an empirical study in turkey
+  2015       no  konaklama işletmelerinde algilanan orgut kultur tipinin calişanlarin sosyal kaytarma davranişlarini algilamasina etkisi uzerine bir araştirma
+  2017       no  socio economic determinants of international tourism demand for turkey panel data analysis
+  2021       no  the new gastronomic product dried and vacuumed rainbow trout roe
+  2014       no  borsa istanbul da islem goren turizm şirketlerinin finansal performanslarinin gri iliskisel analiz yontemiyle olculmesi
+  2020       no  renewable energy matters for tourism industry in brics plus turkey countries
+  2021       no  investigating the tourism originating co 2 emissions in top 10 tourism induced countries evidence from tourism index
+  2014       no  nâbi nin tuhfetu l harameyn adli seyahatnamesinin edebi kaynaklari
+  2018       no  understanding religion based tourism terminology in the context of the hotel industry
+  2021       no  economic impacts of the pandemic on tourism management in turkey the case of covid 19
+  2020       no  comparisons of health tourism within the eu countries
+  2017       no  turizm sektorunde antraktli calisma algisi antalya daki bes yildizli otel calisanlari acisindan bir degerlendirme
+  2016       no  organik tarim tabanli eko turizm uygulamalarinin değerlendirilmesi candir koyu orneği
+  2011       no  the analysis of the relationship among emotional intelligence organizational deviance quality of work life and turnover intentions in hospitality business
+  2008       no  prevention of marine environment pollution at the tourism regions by the application of a simple method for the domestic wastewater
+  2017       no  turizm oğrencilerinin inanc turizmine yonelik bakiş acilari
+  2014       no  tourism development and economic growth in the mediterranean countries evidence from panel granger causality tests
+  2017       no  rize ilinin turizm gostergelerinin yillara gore turkiye ile kiyaslanmasi 2009 2015
+  2021       no  causal relationships among tourism international trade pollution and economic growth evidence from central asian countries
+  2021      YES  otel oda fiyatlarini aciklamada makine ogrenmesi algoritmalarinin kiyaslanmasi
+  2019       no  analysis of hotel services by their symmetric and asymmetric effects on overall customer satisfaction a comparison of market segments
+  2016       no  un related variety urban milieu and tourism company differentiation
+  2020       no  the impact of policy responses to covid 19 on u s travel and leisure companies
+  2020       no  impact of restaurants in the development of gastronomic tourism
+  2014       no  a high order seasonal fuzzy time series model and application to international tourism demand of turkey
+  2008       no  reflections of country image on tourism a comparison between turkey and poland
+  2017       no  el sanfara nin arap lamiyyesi şiiri ve colde seyahat etmenin korkunclugu
+  2018       no  frequency domain causality analysis of tourism and economic activity in turkey
+  2017       no  a monument for turkish hospitality the staging of ahrida synagogue
+  2018       no  strategies of high school students to cope with stress through leisure time
+  2010       no  measuring destination competitiveness an application of the travel and tourism competitiveness index 2007
+  2015       no  the economic contribution of turkish tourism entrepreneurship on the development of tourism movements in islamic countries
+  2016       no  strategic branding in hospitality case of accor hotels
+  2014       no  does the importance of hotel attributes differ for senior tourists a comparison of three markets
+  2021       no  slow food justice and tourism tracing karakilcik bread in seferihisar turkey
+  2021       no  the psychological impact of the covid 19 pandemic on tourism a qualitative study
+  2017       no  surdurulebilir turizm de konaklama işletmeleri calişanlarinin iletişim becerilerinin değerlendirilmesi
+  2019       no  examining effects of service quality and hotel image on customer satisfaction from the perspective of consumption motivations
+  2019       no  factors affecting the choice of medical tourism destination a case study of medical tourists from the arab region in turkey
+  2016       no  gaining ghost town of tourism economics northern cyprus varosha city
+  2015       no  yesil bankacilik ve yesil krediler antalya daki 4 5 yildizli otel isletmelerinin bakis acilari uzerine bir arastirma
+  2015       no  a study into the level of first aid of hotel employees
+  2007       no  new technologies to assist training in hospitality sector
+  2021       no  comparative analysis of residents attitudes toward sustainable tourism development using a multi criteria decision making technique
+  2021      YES  dijital seyahat aracilarinda e musteri tatmini ve e şikayetlere yonelik bir icerik analizi
+  2017       no  turkey s tourism policies in the period of planned development
+  2018       no  evaluation of stakeholders expectations towards congress tourism by kano model case of nevsehir
+  2020       no  rekreasyonel balikcilik turizmi kusadasi didim ve didim akbuk ornegi
+  2014       no  a case study on defining leisure time motivation of recreation students
+  2013       no  analysis of antalya tourism cluster perceived performance with structural equation model
+  2016       no  a research on enterprising tendencies of undergraduate tourism students the case of sakarya university
+  2016       no  the relationship between strategic decision making and leadership styles an application in 4 and 5 star hotels in istanbul
+  2021       no  geothermal potential of the eastern end of the gediz basin western anatolia turkey revealed by three dimensional inversion of magnetotelluric data
+  2010       no  role of the demographic factors in the process of hotel information systems adoption
+  2011       no  design and realization of ultra wide band implant antenna for biotelemetry systems
+  2020       no  personel guclendirmenin rekabet zekâsina etkisi turizm sektorunde bir arastirma
+  2021       no  congenital heart disease and air travel
+  2014       no  ecology based tourism potential with regard to alternative tourism activities in altindere valley trabzon macka
+  2021       no  destination image perception patterns of tourist typologies
+  2018       no  an assessment of the acceptance of government issued tourism strategies a case of tourism students
+  2011       no  how to manage yacht tourism in turkey a swot analysis and related strategies
+  2011       no  fourth advances in tourism marketing conference atmc 2011
+  2017       no  psikolojik kontrat ile orgutsel bağlilik ve orgutsel guven ilişkisi mersin ilindeki 4 ve 5 yildizli otel işletmelerinde bir uygulama
+  2016       no  spor turizminin gelisimine yonelik alan arastirmasi gaziantep ornegi
+  2014       no  service rewards and prosocial service behaviours among employees in four and five star hotels in cappadocia
+  2013       no  liderligin etik boyutu etik liderligin otel isletmelerindeki isgorenler tarafindan algilanmasi
+  2010       no  turkiye de kultur turizminin urun yapisi ve somut kultur varliklarina dayali urun farklilastirma ihtiyaci
+  2017       no  the opinions of the local people of hacibektas town about cultural tourism and haci bektas veli
+  2016       no  doga temelli erisilebilir turizm rize ornegi nature based accessible tourism case of rize
+  2010       no  isgorenlerin egitim ve orgutsel baglilik duzeyleri arasindaki iliski belek bolgesindeki bes yildizli otel isletmelerinde bir arastirma
+  2013       no  dogrudan pazarlama araclarinin konaklama isletmelerinde kullanimi antalya ili ornegi
+  2019       no  the dynamic impacts of renewable energy and tourism investments on international tourism evidence from the g20 countries
+  2017       no  otelenmis hayatlar engelliye bakan kadin olmak
+  2018       no  turkish and european migration experiences then and now evolving narratives of reciprocity belonging hospitality and vulnerability
+  2004       no  tourism growth national development and regional inequality in turkey
+  2003       no  tourism growth national development and regional inequality in turkey
+  2008       no  royal tourism excursions around monarchy p long n j palmer eds channel view publications clevedon 2007 268pp 23 96 paperback isbn 978 1 84541 080 3
+  2017       no  women in turkish tourism
+  2004       no  a profile of turkish tourism
+  2016       no  ahp ve copras yontemleri ile otel alternatiflerinin değerlendirilmesi
+  2017       no  turkiye de turizm ve beseri sermaye gelisimi iliskisi 1970 2013 nedensellik yaklasimi
+  2020       no  galata kulesi ve kiz kulesi nin soylence turizmi kapsaminda incelenmesi
+  2016       no  constantin francois volney in seyahatnamesinde suriye
+  2010       no  mobile advergames in tourism marketing
+  2004       no  evaluation of congress tourism development in the world and in turkey
+  2015       no  the determination and investigation of evaluation habits of the people playing football in astro pitches on their leisure time
+  2017       no  a hotel in anatolia in the last period of the ottoman empire hotel tadia 1892 1922
+  2013       no  culture tourism as a sustainable tourism type the ephesus example
+  2010       no  turizm sektorune saglanan dogrudan yabanci sermaye yatirimlarinin dysy ekonomik buyume uzerine olan olasi etkisi turkiye ornegi 1986 2006
+  2017       no  turizm islemelerinde surdurulebilir rekabet ustunlugu kaynagi olarak stratejik insan kaynaklari yonetimi
+  2020       no  gender discrimination at job application process an experimental study at hotels
+  2020       no  planli davranis teorisi ve turizm uzerine yapilan uluslararasi yayinlarin bibliyometrik analizi
+  1999       no  technological aspects of wastewater management in coastal tourist areas
+  2019       no  the impact of electronic word of mouth marketing on the generation y s intention to buy tourism services
+  2007       no  local authorities and ngos perceptions of tourism development and urbanization in alanya
+  2016       no  pescatourism a european review and perspective
+  2020       no  the impact of economic and political crises on the survival of tourism related firms evidence from antalya
+  2017       no  macro explanatory factors of turkish tourism companies stock returns
+  2017       no  nepotizm algisinda demografik ozelliklerin rolu otel isletmeleri isgorenleri uzerinde bir arastirma
+  2021       no  the tourism sector s impact on carbon emissions an empirical analysis of transitioning g20 countries
+  2015       no  otel isletmelerinde isgorenlerin olumlu sosyal davranislarinin hizmet kalitesi uzerine etkisi nevsehir ornegi
+  2014       no  ecotourism activities for sustainability and management of forest protected areas a case of camili biosphere reserve area turkey
+  2020       no  gamma ray shielding parameters of lithium borotellurite glasses using geant4 code
+  2011       no  impact of culture on tourist decision making styles
+  2015       no  the exchange rate risk of turkish tourism firms
+  2015       no  doğu karadeniz de gelişme potansiyeli yuksek bir yayla turizm merkezi kulakkaya yaylasi
+  2010       no  variety of modes of governance of a global value chain the case of tourism from holland to turkey
+  2020       no  modelling and forecasting inbound tourism demand to croatia using artificial neural networks a comparative study cuhadar m 2020 modelling and forecasting inbound tourism demand to croatia using artificial neural networks a comparative study journal of tourism and services 21 11 55 70 doi 10 29036 jots v11i21 171
+  2014       no  tourism pressure in protected areas butterflies valley case
+  2018       no  rural tourism contributions to rural development in the eastern black sea region of turkey
+  2013       no  volatility in tourist inflows evidence from turkey
+  2013       no  emergence and spread of an all inclusive system in the turkish tourism sector and strategic responses of accommodation firms
+  2010       no  ecotourism potential of gallipoli peninsula historical national park
+  2020       no  the effects of rewards and proactive personality on turnover intentions and meaning of work in hotel businesses
+  2013       no  aristoteles ve augustinus un insan anlayislari uzerine
+  2012       no  the impact of competition conditions on new market entrants in istanbul hotel industry an analyse by using five forces of competitive position model of m porter
+  2018       no  toplumsal donusumu mekân uzerinden okumak istanbul hilton oteli ornegi
+  2011       no  brand personality of tourist destinations an application of self congruity theory
+  2017       no  the concept of quality function deployment qfd and an application of the concept in dedeman konya hotel and convention center
+  2019       no  sağlik turizmi ve turizm sağliğina bir bakiş
+  2015       no  examining the variations in the results of the hotelling t 2 test in case of changing baseline landmarks in the bookstein coordinates
+  2013       no  polonyali hotel lambert ve buyuk sirbistan nacertanije plani 1840 1844 polish hotel lambert and his great serbia nacertanije plan 1840 1844
+  2016       no  degis tokus ve kiralama uygulamalarinin konaklama isletmeleri uzerindeki olasi etkileri
+  2014       no  film tourism triangulation of destinations
+  2019       no  leisure involvement level of 40 and over aged individuals
+  2016       no  noncompliance to smoke free law which hospitality premises are more prone
+  2020       no  leisure activities in turkey during stay at home time
+  2018       no  why do tourists spend extravagantly in portugal a binary logistic regression by quartiles
+  2015       no  social media utilization of tourists for travel related purposes
+  2016       no  a re examination of the relationship between tourism and healthcare
+  2006       no  monitoring turbid freshwater plume characteristics by means of remotely sensed data
+  2005       no  el factor de crecimiento endotelial vascular en los derrames pleurales benignos y malignos
+  2015       no  leisure aspects of turkish coffee consumption rituals an exploratory qualitative study
+  2020       no  otel isletmelerinde tuketicilerin hizmet uzantisi algilamalari ile memnuniyet duzeyleri arasindaki iliskiyi belirlemeye yonelik bir arastirma
+  2011       no  the effects of mass tourism a case study from manavgat antalya turkey
+  2020       no  isveren markasi ve isveren markasinin duygusal baglilik uzerindeki etkisi konaklama isletmelerinde bir uygulama
+  2012       no  promotional activities in hotels applications in the turkey s region of cappadocia
+  2010       no  an analysis of snow options for ski resort establishments
+  2020       no  serious leisure career in students career future
+  2020       no  determination of recreation and tourism use value of bozcaada by travel cost analysis methods
+  2016       no  mobile communication and applications in tourism
+  2017       no  the influence of films on destination attributes das for arabian tourists in turkey
+  2020       no  application of exploratory spatial techniques in the identification of tourism hotspots in the aegean region of turkey
+  2020       no  leisure activity participation exercise level and perceived freedom in university students akdeniz university example
+  2021       no  sustainability tourism and socio economic development
+  2014       no  geography teacher candidates perceptions of geotourism
+  2019       no  investigating the relationships between quality of life fatigue and leisure time physical activity in prostate cancer patients
+  2012       no  implementation of web based biotelemetry applications on wimax networks
+  2015       no  a multi attribute decision support model for the selection of touristic activities
+  2016       no  examining the effect of artificial wall climbing as a leisure time activity on undergraduate s problem solving skills
+  2014       no  a theoretical approach to the tourism businesses marketing plan and management process
+  2021       no  butik otellerin yiyecek ve icecek departmanlarina yonelik e şikâyetlerin analizi akyaka yavas şehir cittaslow ornegi
+  2016       no  risk management for sustainable tourism
+  2019       no  transformation process of tourism schools into faculties in turkey
+  2021       no  green innovation research in the field of hospitality and tourism the construct antecedents consequences and future outlook
+  2020       no  eskisehir in ilinde inanc turizmi uzerine bir degerlendirme odunpazari ornegi
+  2016       no  mesleki baglilik turist rehberleri uzerine bir inceleme vocational commitment a study into tourist guides
+  2011       no  the biological precedents for medieval impetus theory and its aristotelian character
+  2016       no  hydraulic modeling of a water distribution network in a tourism area with highly varying characteristics
+  2016       no  the contribution of sport games take place in turkey on tourism and economy
+  2015       no  degisen dunya donusen pazarlama turkiye turizm sektorunden oncu bir mobil uygulama ornegi
+  2020       no  the mediating role of proactive personality in the relationship between hexaco personality and motivation to learn a study on hospitality sector employees
+  2020       no  kucuk konaklama isletmelerinde karsilastirmali performans analizi belediye belgeli konaklama isletmeleri uzerinde bir arastirma
+  2019       no  social studies teachers views about values education and tourism
+  2016       no  the effects of managers business ethics applications on employees job satisfaction a study on hotels in turkey
+  2015       no  food tourism a practical marketing guide
+  2020       no  attachment styles and job performance in the hospitality industry the mediating role of general self efficacy
+  2020       no  covid 19 salgini sonrasi yukselen trend kirsal turizm zile ornegi
+  2021       no  koronavirus covid 19 surecinde ic turizmin talepleri ve turizm isletmeleri yoneticilerinin ic turizme yonelik bakis acilarinin incelenmesi
+  2007       no  sustainable rural tourism in akseki sarihacilar village
+  2021       no  sanal kaytarma ankara da bulunan a grubu seyahat acenteleri uzerine bir arastirma
+  2016       no  impact of climate change on natural snow reliability snowmaking capacities and wind conditions of ski resorts in northeast turkey a dynamical downscaling approach
+  2010       no  tourists perception of landscape design the case of resorts in the belek specially protected area
+  2017       no  investigating the impacts of energy consumption real gdp tourism and trade on co2 emissions by accounting for cross sectional dependence a panel study of oecd countries
+  2009       no  advances in tourism marketing research introduction to a special issue on consumer behavior in tourism destinations
+  2019       no  turkish tourism and hospitality students international posture attitudes toward the international community
+  2016       no  şehir otellerinde satin alma islevi eskisehir deki otel isletmeleri uzerine bir arastirma
+  2018       no  multilayered implantable antenna design for biotelemetry communication
+  2014       no  turizm sektorunde teşvik veren kurumlarin ahp yontemi ile belirlenmesi kastamonu orneği
+  2010       no  planning of tourism development the case of antalya
+  2018       no  turkiye de sağlik turizminin potansiyeli ve geleceği swot analizi
+  2020       no  food rural heritage and tourism in the local economy case studies in serbia romania italy and turkey
+  2020       no  şanliurfa yi ziyaret eden turistlerin seyahat motivasyonlari
+  2019       no  ahs ve maut yontemi ile en ideal hizmet kalitesi kriterlerine sahip olan isletmenin belirlenmesi ordu ilindeki oteller uzerinde bir arastirma
+  2015       no  surdurulebilir turizm perspektifinde hibridite ve paydas yaklasimi almanya ingiltere ve turkiye kiyaslamalari stakeholder and hybridity approach from the perspective of sustainable tourism comparisons of germany the uk and turkey
+  2021       no  effects of high performance work systems hpwss on intellectual capital organizational ambidexterity and knowledge absorptive capacity evidence from the hotel industry
+  2015       no  determination of organizational stress and organizational burnout levels of mid level managers working in four and five star hotel businesses
+  2021       no  a theory of collateral for the lender of last resort
+  2018       no  an assessment of competitive factors in medical tourism new reserch opportunity for turkey
+  2020       no  turist rehberlerinin gozlemlerinden turistlerin gastronomik tercihlerinin saptanmasi
+  2011       no  scaling territoriality and networks of a tourism place
+  2011       no  the calculation approach for leakages of international tourism receipts the turkish case
+  2019       no  hasan olali pioneer of tourism education and research in turkey
+  2019       no  otel işletmelerinde işten ayrilma niyetinin yordayicisi olarak iş guvencesi algisi işe gomulmuşluğun araci rolu
+  2019       no  turizme dayali buyume modeli ile ekonomiye dayali turizm buyumesi modelinin test edilmesi panel veri analizi
+  2021       no  hospitality employee s mindfulness and its impact on creativity and customer satisfaction the moderating role of organizational error tolerance
+  2012       no  customer deviance in resort hotels the case of turkey
+  2012       no  two micro models of tourism capitalism and the re scaling of state business relations
+  2014       no  koroner kollateral gelisimi ile endotel fonksiyonlariarasindaki iliski
+  2021       no  john lewis burckhardt arabistan seyahatleri temmuz 1814 haziran 1815 buyuyenay istanbul 2019 502 s isbn 978 605 2071 94 6
+  2015       no  the impact of exchange rate on tourism industry the case of turkey
+  2021       no  motivations and experiences of tourists visiting hasankeyf as a last chance tourism destination
+  2005       no  tarihi kentsel mekanlari koruma olgusunun turizme etkileri ve sultanahmet cevresi icin bir oneri
+  2010       no  measuring the seasonality in tourism with the comparison of different methods
+  2010       no  creative cities and cultural spaces new perspectives for city tourism
+  2003       no  international leisure tourists involvement profile
+  2017       no  a study on the effects of demographic factors on hotel selection process
+  2016       no  the effect of social media marketing on brand trust and brand loyalty for hotels
+  2015       no  vadeli işlem piyasalarinda haftanin gunleri etkisi ve tatil anomalisinin tespiti uzerine bir analiz
+  2014       no  otel isletmelerinde calisan personelin iletisim yeterlilik duzeyi gaziantep bolgesinde bir arastirma
+  2016       no  turkiye de turizm tesvik politikalarina kronolojik bir yaklasim
+  2019       no  the relation between work stress work family life conflict and worker performance a research study on hospitality employees
+  2014       no  managerial problems confronted by executive chefs in hotels
+  2017       no  examination of the leisure attitudes of individuals living in turkey from an east to west perspective
+  2019       no  the synergies between human development economic growth and tourism within a developing country an empirical model for turkey
+  2015       no  turizm sektorunun turkiye nin ekonomik buyumesi uzerindeki etkisi 1963 2011
+  2019      YES  advantages of augmented reality virtual reality qr code near field communication geo tagging geo fencing and geo targeting for marketing tourism
+  2019       no  gazi ahmet muhtar pasa nin italya seyahati 1884
+  2020       no  investigation of medical tourism in turkey through swot anp
+  2008       no  an analysis of cities based on tourism supply and climatic conditions in turkey
+  2016       no  kablosuz ieee 802 11b tcp ip ağlarinda mikrodenetleyici ve tumleşik web sunucu kullanilan bir biotelemetri sistemi a biotelemetry system with microcontroller and integrated web server in wireless ieee 802 11b tcp ip network
+  2019       no  impact of managers innovation perception on innovation activities and innovation strategies in hotel businesses
+  2014       no  recreation demands of customers in thermal tourism establishments case of balikesir province
+  2020       no  hopelessness against desire to pursue a career in tourism an empirical analysis of sinop university turkey
+  2017       no  assessing recreational activities service quality in hotels an examination of animation and spa wellness services
+  2014       no  psychoneurobiochemistry of tourism marketing
+  2015       no  gastronomy tourism as an alternative tourism an assessment on the gastronomy tourism potential of turkey
+  2014       no  orta karadeniz de yeni gelisen bir termal turizm merkezi gozlek kaplicasi amasya
+  2009       no  tourism regional development and public policy introduction to the special issue
+  2018       no  cesitli finansal rasyolarin karlilik uzerinde etkisi oecd ulkelerindeki turizm şirketleri uzerine bir uygulama
+  2019       no  brand awareness image physical quality and employee behavior as building blocks of customer based brand equity consequences in the hotel context
+  2012       no  physical psychological and social aspects of qol medical tourism
+  2017       no  multiple criteria decision making in hotel location does it relate to postpurchase consumer evaluations
+  2003       no  the presence and antimicrobial susceptibilities of human pathogen vibrio spp isolated from blue crab callinectes sapidus in belek tourism coast turkey
+  2010       no  meslek ve aile yaşami ilişkisi profesyonel turist rehberlerine yonelik bir araştirma occupation and family life relation an exploratory study for professional tourist guides
+  2011       no  an investigation of resident perceptions on tourism in canakkale excuse me am i disturbing you
+  2013       no  risk perceptions of a mixed image destination the case of turkey s first time versus repeat leisure visitors
+  2019       no  does quality standards certification truly matter on operational and business performances of firms evidence from resort hotels
+  2011       no  time varying linkages between tourism receipts and economic growth in a small open economy
+  2014       no  a content analysis on the subjects of hospitality phd dissertations in turkey
+  2019       no  tourism led growth and risk of the dutch disease dutch disease in turkey
+  2019       no  the meaning of leisure and life satisfaction the sample of university students
+  2020       no  university students alienation levels the case of the anadolu university tourism faculty
+  2017       no  cultural tourism in southern africa
+  2017       no  turizmin kamu kaynaklarinin dagitimindaki yeri ve gelecekteki konumu siyasetcilerin gorusleri
+  2007       no  endotel progenitor hucreler
+  2013       no  turkiye saglik turizm sektorunun analizi ve strateji onerileri
+  2019       no  tatilde nereye gitsek turizmde analitik hiyerarsi sureci yontemi ile destinasyon secimi
+  2003       no  measurement of tourist satisfaction with restaurant services a segment based approach
+  2015       no  otel isletmelerinde calisan muhasebe personelinin demografik ozellikleri ile is tatmin duzeyleri arasindaki iliskinin incelenmesi trabzon otelleri uzerine bir arastirma
+  2005       no  magnetotelluric imaging of the fault rupture area of the 1999 izmit turkey earthquake
+  2014       no  the effects of emotional labor on job attitudes of hotel employees mediating and moderating roles of social support and job autonomy
+  2015       no  determination of agricultural land changes in mugla turkey using remotely sensed data and corine methodology
+  1988       no  kuzey kibris turk cumhuriyetinde turizm
+  2014       no  tuketici şikayetlerinin orgutsel oğrenme araci olarak değerlendirilmesi konaklama işletmeleri ve tur operatorlerine yonelik şikayetler uzerine bir araştirma
+  2021       no  turizm ogrencilerinin endustri 4 0 kavramsal farkindalik duzeyleri ve teknoloji kullanim aliskanliklari arasindaki iliski
+  2020      YES  virtual reality applications in tourism
+  2013       no  selecting franchise partners tourism franchisee approaches processes and criteria
+  2021       no  importance performance analysis of private health facilities serving within the scope of medical tourism istanbul example
+  2015       no  turkiye ye yonelik turizm talebinin gorunurde ilişkisiz regresyon modelleri ile incelenmesi
+  2005       no  cagdas gereksinmeler baglaminda surdurulebilir turizm ve kimlik modeli
+  2016       no  diş mekân turizm ve rekreasyon faaliyetleri acisindan muğla ili iklim konforu analizi
+  2006       no  total quality management and business excellence in services the implications of all inclusive pricing system on internal and external customer satisfaction in the turkish tourism market
+  2017       no  two dimensional joint inversion of direct current resistivity radio magnetotelluric and seismic refraction data an application from bafra plain turkey
+  2017       no  use of structural equation modeling in ecotourism a model proposal
+  2018       no  battlefield tourism an examination of events held by european institutions and their websites related to battlefields
+  2009       no  the effects of occupational health and safety risk factors on job satisfaction in hotel enterprises
+  2020       no  how pandemics affect tourism international evidence
+  2020       no  how pandemics affect tourism international evidence
+  2014       no  the sustainable usage of geothermal sources and their importance in tourism in afyonkarahisar
+  2014       no  perceived social support from family participation in recreational sport activities leisure negotiation and life satisfaction in university students
+  2016       no  linking polychronicity to hotel frontline employees job outcomes
+  2016       no  conspicuous consumption of the elite social and self congruity in tourism choices
+  2016       no  security perceptions and expectations of domestic tourists a sample of southeastern anatolia yerli turistlerin guvenlik algilarinin belirlenmesi guneydogu anadolu bolgesi ornegi
+  2020       no  using ahp to prioritize barriers in developing medical tourism case of turkey
+  2021       no  effects of crisis on crisis management practices a case from turkish tourism enterprises
+  2020       no  coastal tourism development in sinop as an emerging rural destination a preliminary study from the residents perspective
+  2020       no  the role of supply chain management and standard costing techniques in performance evaluations of hotel businesses
+  2020       no  determination of customer satisfaction by text mining case of cappadocia hotels
+  2016       no  gastronomi turizmi acisindan adana sokak lezzetleri adana street flavors in terms of gastronomy tourism
+  2015       no  minimum turnover analysis in turkish tourism sector
+  2020      YES  smart municipalities in tourism
+  2014       no  robert dankoff evliya celebi seyahatnamesi okuma sozlugu
+  1995       no  enzymatic profiles of prevotella porphyromonas and bacteroides species obtained with the api zym system and rosco diagnostic tablets
+  2020       no  duygusal emek ve hizmet vermeye yatkinlik durumu arasindaki iliski konaklama sektoru
+  2010       no  evaluation of the sustainability on cultural heritage and environmental factors in architecture from a tourism point of view ayvalik historical city center
+  2019       no  the role of managers ethical leadership behaviour on hotel employees perception of organizational justice
+  2015       no  empowerment management and economy in starred hotels in gaziantep province
+  2021       no  the effects of shocks on turkish tourism demand evidence using panel unit root test
+  2019       no  turizm ve otelcilik meslek yuksekokullarinda ogrenim goren ogrencilerin egitim ogretim hizmet kalitesine iliskin goruslerinin belirlenmesi turkiye ornegi
+  2008       no  influence of politics and media in the perceptions of turkey as a tourism destination
+  2016       no  recreational services quality in thermal tourism termal turizmde rekreasyonel hizmet kalitesi
+  2021       no  fostering constructive thinking about the wicked problems of team work and decision making in tourism and geography
+  2018       no  revealing the electrical properties of a gneiss dome using three dimensional magnetotellurics burial and exhumation cycles associated with faulting in central anatolia turkey
+  2001       no  comparative performance analysis tourists perceptions of turkey relative to other tourist destinations
+  2020      YES  smart applications in tourism
+  2019       no  turk mutfagindaki fonksiyonel gidalarin gastronomi turizmi acisindan onemi
+  2015       no  market orientation strategy and revenue growth in the turkish hotel industry
+  2015       no  social media practices applied by city hotels a comparative case study from turkey
+  2008       no  internal marketing and hotel performance
+  2013       no  turizm destinasyonlarinda gece kuluplerini ziyaret eden yerli genc turistlerin tuketim alişkanliklari uzerine bir araştirma
+  2018       no  konaklama isletmelerinde zaman eksenli fiili kapasite hesaplamasi
+  2021       no  socio cultural impacts of the pandemic on tourism the case of covid 9
+  2015       no  ahs ve bulanik promethee yontemleriyle destinasyon secimini etkileyen faktorlerin onem derecesinin belirlenmesi ve en uygun destinasyon secimi
+  2021       no  academic tourism and dynamics of tourism destinations
+  2016       no  ise alistirma egitimlerinin is tatmini uzerindeki etkisi otel isletmelerinde bir arastirma the effects of orientations on job satisfaction an application on hotel managements
+  2018       no  dietary matters to which tourists with religious sensitivity pay attention during their vacation
+  2018       no  visible light induced free radical promoted cationic polymerization using organotellurium compounds
+  2009       no  ecotourism potential and management of kavak delta northwest turkey
+  2016       no  evaluating the woody species diversity by means of remotely sensed spectral and texture measures in the urban forests
+  2019       no  sefer solmaz 2018 ibn fazlan seyahatnâmesi ne gore itil bulgarlari
+  2021       no  kriz doneminde otel isletmeciligi alaninda pazarlama finansman ve maliyet odakli eylemler
+  2016       no  devlet tesviklerinin muhasebelestirilmesi ve devlet yardimlarinin aciklanmasi standardi tms 20 kapsaminda turizm sektorunde muhasebe islemleri
+  2012       no  rekreatif tercihler ve calişma eğilimleri arasindaki ilişkinin incelenmesi turizm ve rekreasyon oğrencileri uzerine bir araştirma
+  2017       no  negative word of mouse in the hotel industry a content analysis of online reviews on luxury hotels in jordan
+  2016       no  dinamik matematik yaziliminin oteleme ve donme donusumlerinin ogretiminde kullanilmasinin baglamsal ogrenme boyutundan incelenmesi
+  2017       no  an exploration of hospitality management competencies in turkey through content analysis of the job ads
+  2017       no  an exploration of hospitality management competencies in turkey through content analysis of the job ads
+  2019       no  adult only vs child friendly a research about adult only hotels with the case of marmaris
+  2019       no  internal marketing practices genuine emotions and their effects on hotel employees customer oriented behaviors
+  2003       no  transforming hotels into learning organisations a new strategy for going global
+  2021       no  algilanan kent rekabetciliginin kent markalasmasi uzerine etkisi duzce ili ekoturizm ornegi
+  2014       no  konaklama hizmetlerinde davranissal niyeti etkileyen hizmet kalitesi boyutlari
+  2012       no  gender differences of middle level hotel managers self evaluation ratings in turkey
+  2006       no  multiple criteria activity selection for ecotourism planning in igneada
+  2020      YES  augmented reality technology applications in museum tourism examples from turkey and throughout the world
+  2015       no  surdurulebilir turizm alacati destinasyonuna yonelik bir uygulama
+  2015       no  importance performance competitor analysis ipca a study of hospitality companies
+  2013       no  otel isletmelerinde calisan memnuniyetine etki eden faktorler kemer lara belek side alanya bolgelerinde bir calisma
+  2017       no  yore halkinin iletişim becerileri duzeyi pamukkale destinasyonunda bir uygulama
+  2016       no  drought conditions in turkey between 2004 and 2013 via drought indices derived from remotely sensed data
+  2021       no  the nexus between economic growth tourism development energy consumption and co 2 emissions in mediterranean countries
+  2016       no  price competitiveness of international tourism destinations and tourism demand tourism receipts relationship
+  2020       no  teaching architectural design studio remotely the introduction to architectural design course at metu
+  2015       no  impact analysis of demand driven shocks in turkey s tourism industry within the framework of the social accounting matrix
+  2019       no  hotels and highways the construction of modernization theory in cold war turkey
+  2019       no  predicting the medical tourism demand of turkey
+  2012       no  understanding small tourism businesses a perspective from turkey
+  2017       no  recreation in different cultures analysis of leisure time activities farkli kulturlerde rekreasyon serbest zaman aktivitelerinin incelenmesi
+  2021       no  customer online reviews and hospitality employees helping behavior moderating roles of self efficacy and moral identity
+  2020      YES  smart tourism smart cities and smart destinations as knowledge management tools
+  2015       no  accommodation business management s attitudes towards employees received vocational tourism education
+  2016       no  oykunme ve ozgunluk turizm alanindaki liderlik araştirmalari uzerine eleştirel bir inceleme
+  2015       no  seyahatnamelerde kuzey kafkasya turkleri
+  2019       no  turkiye deki yerel bes yildizli otellerin mobil uygulamalarin incelenmesi
+  2021       no  are shocks to tourist arrivals permanent or transitory a comprehensive analysis on the top 20 most visited countries
+  2017       no  analysing the difference of perceived destination image according to local people pamukkale case yore halki demografik verilerine gore algilanan destinasyon imaj farkliliginin incelenmesi pamukkale ornegi
+  2021       no  the effect of the cyberloafing behaviors of tourism business employees on business motivations and organizational identification
+  2020       no  tourism development and economic growth an asymmetric panel causality test
+  2020       no  near field communication nfc applications in the tourism industry
+  2019       no  on sustainable tourism management in the hittite road
+  2015       no  tourism potential between central asia turkish government and turkey and examining it in terms of economy
+  1995       no  g f settarov atamalar dunyasina seyahat
