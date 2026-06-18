@@ -55,6 +55,8 @@ konferans_kodları/
 │
 ├── mersin_conferance1.py            # Main pipeline (Steps 1–7)
 ├── mersin_conferance2.py            # Filtered analysis 2002–2021 (Step 8)
+├── mersin_conferance3.py            # Enhanced visual 1951–2021 (Step 9)
+├── mersin_conferance4.py            # Enhanced visual 2002–2021 (Step 10)
 │
 ├── 1.çalıştırma_outputları/
 │   ├── digital_convergence_data.csv          # Annual totals (full year range)
@@ -64,10 +66,18 @@ konferans_kodları/
 │   ├── sample_titles.txt                     # Random sample for manual validation
 │   └── output_log.txt                        # Full run log
 │
-└── 2.çalıştırma_outputları/
-    ├── digital_convergence_table_2002_2021.txt   # Filtered table (2002–2021)
-    ├── digital_convergence_trend_2002_2021.png   # Trend chart + linear regression
-    └── output_log_step8.txt
+├── 2.çalıştırma_outputları/
+│   ├── digital_convergence_table_2002_2021.txt   # Filtered table (2002–2021)
+│   ├── digital_convergence_trend_2002_2021.png   # Trend chart + linear regression
+│   └── output_log_step8.txt
+│
+├── 3.çalıştırma_outputları/
+│   └── digital_convergence_trend_1951_2021_gapped.png
+│      # Gapped chart: n<17 and confirmed false-positive years excluded from connected line
+│
+└── 4.çalıştırma_outputları/
+    └── digital_convergence_trend_2002_2021_gapped.png
+       # Gapped chart: same criteria, focused 2002–2021 window
 ```
 
 ---
@@ -88,6 +98,12 @@ Linear trend (2002–2021): **+0.20 percentage points / year**
 
 ![Convergence Trend](2.çalıştırma_outputları/digital_convergence_trend_2002_2021.png)
 
+Enhanced visuals:
+
+![Gapped Trend 1951-2021](3.çalıştırma_outputları/digital_convergence_trend_1951_2021_gapped.png)
+
+![Gapped Trend 2002-2021](4.çalıştırma_outputları/digital_convergence_trend_2002_2021_gapped.png)
+
 ---
 
 ## How to Reproduce
@@ -101,6 +117,12 @@ python mersin_conferance1.py
 
 # 3. Run filtered analysis (reads CSV output, < 5 sec)
 python mersin_conferance2.py
+
+# 4. Run enhanced long-range gapped visual (1951–2021)
+python mersin_conferance3.py
+
+# 5. Run enhanced focused gapped visual (2002–2021)
+python mersin_conferance4.py
 ```
 
 ---
@@ -111,3 +133,4 @@ python mersin_conferance2.py
 - `SAMPLE_MODE = True` / `SAMPLE_ROWS = 5_000_000` for quick testing
 - All progress logged to `output_log.txt` via `_Tee` (stdout + file simultaneously)
 - `matched_titles.txt` contains all matched titles for manual false-positive validation
+- In enhanced charts, connected convergence line is drawn only for years with n >= 17 and not in confirmed false-positive years
